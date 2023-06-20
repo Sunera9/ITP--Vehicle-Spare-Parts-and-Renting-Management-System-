@@ -1,0 +1,107 @@
+.forgot-card {
+  width: 600px;
+  margin: 50px auto 0;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  
+}
+.forgot-card.my-custom-class {
+  background: linear-gradient(125deg, #ECFCFF 0%, #ECFCFF 40%, #B2FCFF calc(40% + 1px), #B2FCFF 60%, #5EDFFF calc(60% + 1px), #5EDFFF 72%, #3E64FF calc(72% + 1px), #3E64FF 100%); 
+}
+
+
+.forgot-card-body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 50px;
+  margin-top: 173px;
+}
+
+
+
+.forgot-logo {
+  width: 20px;
+  height: 60px;
+  margin-bottom: 20px;
+}
+
+  .emailLogo {
+    width: 10%;
+    height: 10%;
+
+  
+    
+    /* justify-content: center */
+}  
+
+
+ /* img {
+    width: 20%;
+    height: 60%;
+
+    margin-right: 15px;
+    justify-content: center
+}  */
+h1 {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+form {
+  width: 100%;
+  /* max-width: 400px; */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.forgot-form-group {
+  width: 100%;
+  margin-bottom: 20px;
+}
+
+label {
+  font-size: 16px;
+  margin-bottom: 5px;
+}
+
+.form-control {
+  width: 100%;
+  padding: 20px;
+  
+  border-radius: 20px;
+  border: 1px solid #000000;
+  font-size: 16px;
+}
+.form-group:first-child {
+  margin-bottom: 10px;
+}
+
+.forgot-btn-primary {
+  background-color: #4B259B;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  font-size: 16px;
+  cursor: pointer;
+  margin-top: 20px;
+  border-radius: 20px;
+}
+
+.forgot-btn-primary:hover {
+  background-color:#4B259B;
+}
+
+p {
+  /* margin-top: 20px; */
+  font-size: 14px;
+}
+
+.atag {
+  color: #007bff;
+  text-decoration: none;
+}
+
+

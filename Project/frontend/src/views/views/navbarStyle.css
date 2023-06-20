@@ -1,0 +1,120 @@
+.navbars {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+     z-index: 1;
+    background-color: #321375;
+    color: #fff;
+     position: fixed;
+    padding: 0px;
+  }
+  
+   /* position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 60px;
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    padding: 0 24px 0 16px;
+    background: #ffffff;
+    box-shadow: 0 0 20px rgb(0 0 0 / 8%); */
+  
+  .navbars a {
+    display: inline-block;
+    color: #fff;
+    padding: 10px;
+  }
+  
+  .nav-dropdowns button {
+    background: none;
+    border: none;
+    color: #070707;
+    cursor: pointer;
+    font-size: 16px;
+    margin-right: 10px;
+  }
+  
+  .dropdown-menus {
+    position: absolute;
+    
+    padding-right: 100px;
+    z-index: 1;
+    display: flex;
+    flex-direction: column;
+    min-width: 100px;
+    padding: 10px;
+   
+    background-color: #fff;
+    border: 1px solid #ccc;
+    box-shadow: 0px 2px 6px rgba(0, 0, 0, 0.15);
+  }
+  
+  
+  .dropdown-menus a {
+    color: #333;
+    padding: 10px;
+  }
+  
+  .dropdown-menus hr {
+    margin: 0;
+  }
+  
+  .logos {
+    display: flex;
+    align-items: center;
+  }
+  
+  .logos img {
+    height: 90px;
+     width: 90px;
+    margin-right: 10px;
+  }
+  
+  .page-logos img {
+    height: 50px;
+  }
+  
+  .button-link {
+    background-color: #fcfcfc;
+    color: #000000;
+    border: none;
+    padding: 10px;
+    margin-bottom: 10px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+  }
+  
+  .button-link:hover {
+    background-color: #af1f1f;
+  }
+  
+  .icons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #fff;
+    border-radius: 50%;
+    width: 120px;
+    height:60px;
+    border-radius: 20px;
+    margin-right: 10px;
+  }
+  
+  .icon2s {
+    display: flex;
+    align-items: center;
+  }
+  
+  .button-link {
+    display: flex;
+    align-items: center;
+  }
+  
+  .button-link svg {
+    margin-right: 5px;
+    margin-bottom: px;
+  }

@@ -1,0 +1,752 @@
+@import "../components/Dashboard.scss";
+
+.component13 {
+  padding: 0 18px 0 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.itemsCart {
+  height: 6.68%;
+  width: 14.31%;
+  color: rgba(50, 19, 117, 1);
+  display: flex;
+  text-align: center;
+  margin-right: 45px;
+  margin-left: 30px;
+  margin-top: 100px;
+  @include inter-13-extra-bold;
+}
+.contentWrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.leftSide {
+  display: block;
+}
+.checkBarCont {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  align-items: center;
+  margin-bottom: 50px;
+}
+
+.itemBlock {
+  width: 500px;
+  display: flex;
+  flex-direction: column;
+  padding-top: 93px;
+  flex-wrap: nowrap;
+  align-items: center;
+}
+.flexWrapperThirteen1 {
+  padding: 16px 0 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.flexWrapperSeventeen {
+  margin-right: 27px;
+  padding: 8px 0 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.itemName {
+  height: 14.21%;
+  margin-top: 0;
+  width: 40.4%;
+  color: rgb(50, 19, 117);
+  display: flex;
+  text-align: center;
+  @include inter-13-extra-bold;
+}
+.flexWrapperEight1 {
+  background-color: rgb(50, 19, 117);
+  border-radius: 15px;
+  padding: 14px 42px 11px;
+  height: 112px;
+  width: 370px;
+  box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.25);
+  display: flex;
+  align-items: flex-start;
+  border: 1px solid rgb(255, 255, 255);
+}
+.toyotaCamryBrakePads1 {
+  height: 71.05%;
+  color: rgba(255, 255, 255, 1);
+  align-self: stretch;
+  @include poppins-18-medium;
+}
+.itemNo100t {
+  width: 62.7%;
+  height: 50%;
+  color: rgba(255, 255, 255, 1);
+  margin-left: 9px;
+  @include nunito-14-medium;
+}
+.rectangle25t {
+  width: 29.4%;
+  height: 97.26%;
+  box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.25);
+  border: 1px solid rgba(255, 255, 255, 1);
+  border-radius: 15px;
+}
+.countWrapper {
+  display: block;
+}
+.flexWrapperFourteent {
+  display: flex;
+  align-items: flex-start;
+  &:not(:last-of-type) {
+    margin-bottom: 6px;
+  }
+}
+.loyaltyBonus5mint {
+  width: 64.4%;
+  height: 80.95%;
+  color: rgba(50, 19, 117, 1);
+  margin-right: 51px;
+  @include inter-14-medium;
+}
+.num20000t {
+  max-width: 138px;
+  width: 55.2%;
+  color: rgba(50, 19, 117, 1);
+  align-self: stretch;
+  text-align: right;
+  @include poppins-14-medium;
+}
+.flexWrapperThreet {
+  width: 353px;
+  height: 1.5px;
+  background: linear-gradient(rgba(50, 19, 117, 1), rgba(50, 19, 117, 1)),
+    rgba(50, 19, 117, 1);
+  margin-bottom: 7.58px;
+}
+.flexWrapperTent {
+  margin-bottom: 12px;
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: space-between;
+}
+.totalTaxInclt {
+  height: 80.95%;
+  color: rgb(50, 19, 117);
+  margin: 0;
+  @include inter-14-medium;
+}
+.num21500t {
+  color: rgb(50, 19, 117);
+  margin: 0;
+  @include poppins-14-medium;
+}
+.line5t {
+  width: 100%;
+  height: 1px;
+  background-color: rgb(50, 19, 117);
+  margin-bottom: 4.04px;
+}
+.flexWrapperElevent {
+  padding: 0 0 36px 12px;
+  display: flex;
+  align-items: flex-start;
+}
+.flexWrapperTwentyt {
+  margin-right: 7px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  margin-top: 15px;
+}
+.flexWrapperOnet {
+  background-color: rgb(50, 19, 117);
+  height: 55px;
+  width: 200px;
+  margin-bottom: 34.5px;
+  border-radius: 12px;
+  display: flex;
+  align-items: center;
+  border: 1px solid rgb(255, 255, 255);
+  cursor: pointer;
+}
+.payt {
+  font-family: "Inter";
+  font-size: 16px;
+  font-weight: 700;
+  line-height: normal;
+  color: rgb(254, 252, 252);
+  text-align: center;
+  width: 100%;
+}
+.flexWrapperTwot {
+  background-color: rgb(50, 19, 117);
+  border-radius: 12px;
+  display: flex;
+  align-items: center;
+  border: 1px solid rgb(255, 255, 255);
+  height: 55px;
+  width: 200px;
+  cursor: pointer;
+}
+
+.checkBar {
+  display: flex;
+  flex-direction: row;
+  width: 716px;
+  background-color: $midnight-blue;
+  border-radius: 25px;
+  margin-left: 20px;
+  padding: 20px;
+  flex-wrap: nowrap;
+  align-items: center;
+}
+.rightSide {
+  display: block;
+}
+.flexWrapperEight {
+  margin-bottom: 6px;
+  padding: 0 0 0 24px;
+  display: flex;
+  align-items: flex-start;
+}
+.relativeWrapperFive {
+  width: 3.27%;
+  height: 43.43%;
+  margin-top: 24px;
+  margin-right: 25px;
+  position: relative;
+}
+.materialSymbolscheckBoxOutlineRound {
+  width: calc(100% - 10.75px);
+  height: calc(100% - 10.75px);
+  padding: 6px 10.75px 4.75px 0;
+  position: relative;
+}
+.vector {
+  width: 100%;
+  height: 100%;
+}
+.materialSymbolscheckBoxOutlineRoundTwo {
+  width: calc(100% - 10.75px);
+  height: calc(100% - 10.75px);
+  padding: 6px 10.75px 4.75px 0;
+  display: flex;
+  align-items: center;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+.vectorTwo {
+  flex: 1;
+  align-self: stretch;
+  object-fit: cover;
+}
+.flexWrapperThree {
+  background-color: rgba(50, 19, 117, 1);
+  margin-right: 6px;
+  border-radius: 15px;
+  padding: 35px 21px 46px 717px;
+  box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.25);
+  position: relative;
+  border: 1px solid rgba(255, 255, 255, 1);
+}
+.relativeWrapperOne {
+  display: flex;
+  align-items: flex-start;
+  position: absolute;
+  left: -1px;
+  top: -1px;
+}
+.rectangle25 {
+  width: 19.24%;
+  height: 71%;
+  position: absolute;
+  right: 172px;
+  top: 8px;
+  box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.25);
+  border: 1px solid rgba(255, 255, 255, 1);
+  border-radius: 15px;
+}
+.flexWrapperFour {
+  background-color: rgba(50, 19, 117, 1);
+  border-radius: 15px;
+  box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.25);
+  position: relative;
+  border: 1px solid rgba(255, 255, 255, 1);
+}
+.rectangle23 {
+  width: 100%;
+  height: 100%;
+  background-color: rgba(50, 19, 117, 1);
+  margin-left: -1px;
+  border-radius: 15px;
+  box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.25);
+  position: relative;
+  border: 1px solid rgba(255, 255, 255, 1);
+}
+.num1 {
+  height: 20.41%;
+  width: 1.98%;
+  color: rgba(255, 255, 255, 1);
+  display: flex;
+  position: absolute;
+  right: 216px;
+  bottom: 40px;
+  @include raleway-22-semi-bold;
+}
+.toyotaCamryBrakePads {
+  max-width: 252px;
+  width: 41.58%;
+  height: 27.55%;
+  color: rgba(255, 255, 255, 1);
+  position: absolute;
+  left: 105px;
+  top: 23px;
+  @include poppins-18-medium;
+}
+.itemNo100 {
+  width: 26.07%;
+  height: 19.39%;
+  color: rgba(255, 255, 255, 1);
+  position: absolute;
+  left: 106px;
+  bottom: 27px;
+  @include nunito-14-medium;
+}
+.group4 {
+  width: 20px;
+  height: 20px;
+  position: absolute;
+  right: 190px;
+  bottom: 40px;
+}
+.lkr20000 {
+  max-width: 88px;
+  width: 14.52%;
+  height: 21.43%;
+  color: rgba(255, 255, 255, 1);
+  text-align: right;
+  position: absolute;
+  right: 55px;
+  bottom: 40px;
+  @include poppins-14-medium;
+}
+.toyotaCamryBrakePadsTwo {
+  width: 41.58%;
+  height: 22.45%;
+  color: rgba(255, 255, 255, 1);
+  position: absolute;
+  left: 105px;
+  top: 23px;
+  @include inter-18-medium;
+}
+.vectorThree {
+  width: 6.16%;
+  height: 37.5%;
+  position: absolute;
+  left: 24px;
+  top: 29px;
+}
+.lkr20000Two {
+  width: 100%;
+  height: 100%;
+  color: rgba(255, 255, 255, 1);
+  text-align: right;
+  @include inter-14-medium;
+}
+.materialSymbolsdeleteForever {
+  width: 4.27%;
+  height: 49.49%;
+  background-color: rgba(255, 255, 255, 1);
+  margin-top: 24px;
+  margin-right: 29px;
+}
+.subtotal {
+  width: 10.51%;
+  height: 17.17%;
+  color: rgba(50, 19, 117, 1);
+  margin-top: 78px;
+  margin-right: 74px;
+  @include inter-14-medium;
+}
+.subtotalt {
+  width: 55.2%;
+  height: 80.95%;
+  color: rgba(50, 19, 117, 1);
+  margin-right: 74px;
+  @include inter-14-medium;
+}
+.num20000t {
+  max-width: 138px;
+  width: 55.2%;
+  color: rgba(50, 19, 117, 1);
+  align-self: stretch;
+  text-align: right;
+  @include poppins-14-medium;
+}
+.flexWrapperNine {
+  margin-bottom: 0.46px;
+  padding: 0 0 0 1011px;
+  display: flex;
+  align-items: flex-start;
+}
+.shipping {
+  width: -20.88%;
+  height: 80.95%;
+  color: rgba(50, 19, 117, 1);
+  margin-right: 74px;
+  @include inter-14-medium;
+}
+.num2000 {
+  max-width: 138px;
+  width: -20.88%;
+  color: rgba(50, 19, 117, 1);
+  align-self: stretch;
+  text-align: right;
+  @include poppins-14-medium;
+}
+.flexWrapperTen {
+  padding: 0 0 0 18px;
+  display: flex;
+  align-items: flex-start;
+  &:not(:last-of-type) {
+    margin-bottom: 28px;
+  }
+}
+.mdicheckboxBlankOutline {
+  width: calc(3.24% - 10.75px);
+  height: calc(42.77% - 10.75px);
+  margin-top: 28.54px;
+  margin-right: 35px;
+  padding: 5.38px 5.37px 5.37px 5.38px;
+  display: flex;
+  align-items: center;
+}
+.flexWrapperFive {
+  background-color: rgba(50, 19, 117, 1);
+  margin-top: 2.54px;
+  margin-right: 87px;
+  border-radius: 15px;
+  padding: 12px 25px 13px 20px;
+  box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.25);
+  display: flex;
+  align-items: flex-start;
+  border: 1px solid rgba(255, 255, 255, 1);
+}
+.vectorFour {
+  width: 4.78%;
+  height: 50.34%;
+  margin-top: 17px;
+  margin-right: 45.67px;
+}
+.relativeWrapperTwo {
+  width: 24.33%;
+  height: 60.27%;
+  margin-top: 7px;
+  margin-right: 82px;
+  position: relative;
+}
+.fordF150AirFilter {
+  max-width: 190px;
+  width: 100%;
+  height: 100%;
+  color: rgba(255, 255, 255, 1);
+  position: relative;
+  @include inter-18-medium;
+}
+.itemNo40 {
+  width: 86.32%;
+  height: 38.64%;
+  color: rgba(255, 255, 255, 1);
+  position: absolute;
+  left: 0;
+  bottom: -3px;
+  @include inter-14-medium;
+}
+.num1Two {
+  height: 27.4%;
+  width: 1.54%;
+  color: rgba(255, 255, 255, 1);
+  display: flex;
+  margin-top: 22px;
+  margin-right: 6px;
+  @include raleway-22-semi-bold;
+}
+.group5 {
+  width: 20px;
+  height: 20px;
+  margin-top: 22px;
+  margin-right: 118px;
+}
+.rectangle27 {
+  width: 14.98%;
+  height: 97.26%;
+  margin-right: 71px;
+  box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.25);
+  border: 1px solid rgba(255, 255, 255, 1);
+  border-radius: 15px;
+}
+.lkr45000 {
+  width: 10.24%;
+  height: 23.29%;
+  color: rgba(255, 255, 255, 1);
+  text-align: right;
+  margin-top: 23px;
+  @include inter-14-medium;
+}
+.flexWrapperThirteen {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.flexWrapperFourteen {
+  margin-bottom: 7.92px;
+  display: flex;
+  align-items: flex-start;
+}
+.loyaltyBonus5min {
+  width: 46%;
+  height: 80.95%;
+  color: rgba(50, 19, 117, 1);
+  margin-right: 51px;
+  @include inter-14-medium;
+}
+.num500 {
+  max-width: 138px;
+  width: 39.43%;
+  color: rgba(50, 19, 117, 1);
+  align-self: stretch;
+  text-align: right;
+  @include poppins-14-medium;
+}
+.flexWrapperTwo {
+  width: 353px;
+  height: 1.5px;
+  background: linear-gradient(rgba(50, 19, 117, 1), rgba(50, 19, 117, 1)),
+    rgba(50, 19, 117, 1);
+  margin-bottom: 7.58px;
+}
+.flexWrapperFifteen {
+  margin-bottom: 19px;
+  display: flex;
+  align-items: flex-start;
+}
+.totalTaxIncl {
+  width: 39.43%;
+  height: 80.95%;
+  color: rgba(50, 19, 117, 1);
+  margin-top: 4px;
+  margin-right: 74px;
+  @include inter-14-medium;
+}
+.line5 {
+  height: 1.57%;
+  background-color: rgba(50, 19, 117, 1);
+  align-self: stretch;
+  &:not(:last-of-type) {
+    margin-bottom: 14.5px;
+  }
+}
+.flexWrapperEleven {
+  margin-bottom: 31px;
+  padding: 0 0 0 18px;
+  display: flex;
+  align-items: flex-start;
+}
+.mdicheckboxBlankOutlineTwo {
+  width: calc(3.23% - 10.75px);
+  height: calc(43.88% - 10.75px);
+  margin-top: 26px;
+  margin-right: 32px;
+  padding: 5.38px 5.37px 5.37px 5.38px;
+  display: flex;
+  align-items: center;
+}
+.flexWrapperSix {
+  background-color: rgba(50, 19, 117, 1);
+  margin-right: 8px;
+  border-radius: 15px;
+  padding: 11px 14px 14px 23px;
+  box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.25);
+  display: flex;
+  align-items: flex-start;
+  border: 1px solid rgba(255, 255, 255, 1);
+}
+.vectorFive {
+  width: 4.73%;
+  height: 50.34%;
+  margin-top: 21px;
+  margin-right: 45.67px;
+}
+.relativeWrapperThree {
+  width: 29.91%;
+  height: 60.27%;
+  margin-top: 6px;
+  margin-right: 36px;
+  position: relative;
+}
+.hondaCivicSparkPlugs {
+  max-width: 236px;
+  width: 100%;
+  height: 100%;
+  color: rgb(255, 255, 255);
+  position: relative;
+  line-height: normal;
+  margin: 0;
+  margin-bottom: 10px;
+  @include inter-18-medium;
+}
+.itemNo42 {
+  width: 69.49%;
+  height: 38.64%;
+  color: rgba(255, 255, 255, 1);
+  @include inter-14-medium;
+}
+.num1Three {
+  height: 27.4%;
+  width: 1.52%;
+  color: rgba(255, 255, 255, 1);
+  display: flex;
+  margin-top: 21px;
+  margin-right: 6px;
+  @include raleway-22-semi-bold;
+}
+.group6 {
+  width: 20px;
+  height: 20px;
+  margin-top: 21px;
+  margin-right: 109px;
+}
+.rectangle28 {
+  width: 14.83%;
+  height: 97.26%;
+  margin-right: 64px;
+  box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.25);
+  border: 1px solid rgba(255, 255, 255, 1);
+  border-radius: 15px;
+}
+.lkr25000 {
+  width: 13.18%;
+  height: 23.29%;
+  color: rgba(255, 255, 255, 1);
+  text-align: right;
+  margin-top: 30px;
+  @include inter-14-medium;
+}
+.materialSymbolsdeleteForeverTwo {
+  width: 4.2%;
+  height: 50%;
+  background-color: rgba(255, 255, 255, 1);
+  margin-top: 25px;
+  margin-right: 26px;
+}
+.flexWrapperOne {
+  background-color: rgba(50, 19, 117, 1);
+  margin-top: 18px;
+  border-radius: 12px;
+  padding: 15.46px 126px 23.54px 146px;
+  display: flex;
+  align-items: flex-start;
+  border: 1px solid rgba(255, 255, 255, 1);
+}
+.checkout {
+  color: rgba(254, 252, 252, 1);
+  flex: 1;
+  align-self: stretch;
+  @include inter-16-medium;
+}
+.mdicheckboxBlankOutlineThree {
+  width: calc(3.12% - 10.75px);
+  height: calc(32.33% - 10.75px);
+  margin-top: 28px;
+  margin-right: 31px;
+  padding: 5.38px 5.37px 5.37px 5.38px;
+  display: flex;
+  align-items: center;
+}
+.flexWrapperSeven {
+  background-color: rgba(50, 19, 117, 1);
+  margin-right: 453px;
+  border-radius: 15px;
+  padding: 10px 27px 10px 24px;
+  box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.25);
+  display: flex;
+  align-items: flex-start;
+  border: 1px solid rgba(255, 255, 255, 1);
+}
+.vectorSix {
+  scale: 1;
+  margin: 0px 60px 0px 0px;
+}
+.textCont {
+  display: block;
+  margin-right: 50px;
+}
+.count {
+  width: 70px;
+  height: 40px;
+  text-align: center;
+  line-height: normal;
+  border-radius: 15px;
+  margin-right: 50px;
+  @include raleway-22-semi-bold;
+}
+.relativeWrapperFour {
+  width: 30.45%;
+  height: 56.41%;
+  margin-right: 39px;
+  position: relative;
+}
+.itemNo42Two {
+  width: 69.49%;
+  height: 38.64%;
+  color: rgba(255, 255, 255, 1);
+  margin: 0;
+  @include inter-14-medium;
+}
+.num1Four {
+  height: 25.64%;
+  width: 1.55%;
+  color: rgba(255, 255, 255, 1);
+  display: flex;
+  margin-top: 23px;
+  margin-right: 17px;
+  @include raleway-22-semi-bold;
+}
+.group8 {
+  width: 20px;
+  height: 20px;
+  margin-top: 27px;
+  margin-right: 102px;
+}
+.checkBox {
+  display: block;
+  width: 30px;
+  height: 30px;
+}
+.rectangle29 {
+  border: 1px solid rgb(255, 255, 255);
+  border-radius: 15px;
+  height: 60px;
+  margin-right: 70px;
+}
+.lkr25000Two {
+  width: 13.42%;
+  height: 21.79%;
+  color: rgba(255, 255, 255, 1);
+  text-align: right;
+  margin-top: 24px;
+  @include inter-14-medium;
+}
+.materialSymbolsdeleteForeverThree {
+  width: 3.12%;
+  height: 33.83%;
+  background-color: rgba(255, 255, 255, 1);
+  margin-top: 88px;
+}

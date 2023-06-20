@@ -1,0 +1,211 @@
+.admin-login-container {
+  min-height: 100vh;
+}
+.admin-login-admin-login {
+  width: 100%;
+  height: 1024px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  background-color: rgba(255, 255, 255, 1);
+}
+.admin-login-signinbackground1 {
+  top: 149px;
+  left: -12px;
+  width: 1600px;
+  height: 756px;
+  position: absolute;
+  border-color: transparent;
+}
+.admin-login-rectangle3 {
+  top: -2px;
+  left: 0px;
+  width: 1600px;
+  height: 167px;
+  position: absolute;
+  border-color: rgba(50, 19, 117, 1);
+  border-style: solid;
+  border-width: 1px;
+}
+.admin-login-rectangle2 {
+  top: 837px;
+  left: 0px;
+  width: 1600px;
+  height: 284px;
+  position: absolute;
+}
+.admin-login-pn-logoimage1 {
+  top: 1px;
+  left: 623px;
+  width: 193px;
+  height: 148px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 0 10px 0 0;
+}
+.admin-login-rectangle22 {
+  top: 229px;
+  left: 498px;
+  width: 485px;
+  height: 529px;
+  position: absolute;
+  border-color: rgba(48, 47, 45, 1);
+  border-style: solid;
+  border-width: 7px;
+  border-radius: 20px;
+}
+.admin-login-rectangle23input {
+  top: 434px;
+  left: 520px;
+  width: 430px;
+  height: 39px;
+  position: absolute;
+  border-color: rgba(50, 19, 117, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 120px;
+}
+.admin-login-rectangle26input {
+  top: 548px;
+  left: 520px;
+  width: 430px;
+  height: 39px;
+  position: absolute;
+  border-color: rgba(50, 19, 117, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 120px;
+}
+.admin-login-rectangle25button {
+  top: 649px;
+  left: 586px;
+  width: 299px;
+  height: 46px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 120px;
+}
+.admin-login-text {
+  top: 411px;
+  left: 585px;
+  color: rgba(100, 12, 130, 1);
+  width: 294px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Extra Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.admin-login-text02 {
+  top: 524px;
+  left: 586px;
+  color: rgba(100, 12, 130, 1);
+  width: 294px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Extra Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.admin-login-text04 {
+  top: 597px;
+  left: 599px;
+  color: rgba(100, 12, 130, 1);
+  width: 294px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  align-self: auto;
+  font-style: Semi Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.admin-login-text06 {
+  top: 661px;
+  left: 632px;
+  color: rgba(255, 255, 255, 1);
+  width: 216px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Extra Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.admin-login-vector {
+  top: 283px;
+  left: 684px;
+  width: 106px;
+  height: 100px;
+  position: absolute;
+}
+.admin-login-text08 {
+  left: 375px;
+  color: rgb(255, 255, 255);
+  width: 680px;
+  bottom: 82px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: italic;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.admin-login-text09 {
+  top: 243px;
+  left: 585px;
+  color: rgba(100, 12, 130, 1);
+  width: 294px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Extra Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}

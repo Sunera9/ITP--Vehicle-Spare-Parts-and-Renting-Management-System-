@@ -1,0 +1,36 @@
+@import "Dashboard";
+
+.dashboard {
+  background-color: $midnight-blue;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+  width: 289px;
+  height: 100%;
+  flex-wrap: nowrap;
+  justify-content: flex-start;
+}
+.pngLogoImage1 {
+  margin-top: 60px;
+  margin-bottom: 33px;
+  margin-left: 27px;
+}
+.flexWrapperOne {
+  background-color: rgb(255, 255, 255);
+  border-radius: 120px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 20px;
+  width: 225px;
+  height: 40px;
+}
+.emps {
+  color: $black;
+  flex: 1;
+
+  text-align: center;
+  cursor: pointer;
+  @include inter-16-bold;
+}

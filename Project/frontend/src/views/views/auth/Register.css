@@ -1,0 +1,231 @@
+/* // Form CSS */
+
+
+
+
+
+
+
+.register-slide-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 220vh;
+  background-color: #0a0a0a;
+background: linear-gradient(125deg, #ECFCFF 0%, #ECFCFF 40%, #B2FCFF calc(40% + 1px), #B2FCFF 60%, #5EDFFF calc(60% + 1px), #5EDFFF 72%, #3E64FF calc(72% + 1px), #3E64FF 100%);
+    /* background-size: cover; */
+    border-width: 20px;
+
+}
+
+
+
+.register-left-slide {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #321375;
+  color: white;
+  padding: 50px;
+  width: 30%;
+  height: 70%;
+ 
+}
+.register-left-slide img {
+  width: 200px;
+  height: 200px;
+  margin-bottom: 65px;
+ 
+  
+}
+
+.register-left-slide h3 {
+  font-size: 35px;
+  margin-bottom: 65px;
+  
+}
+
+.register-left-slide button {
+  padding: 10px 30px;
+  border: none;
+  background-color: white;
+  color: #321375;
+  font-size: 1.2rem;
+  margin-top: 20px;
+  cursor: pointer;
+  border-radius: 20px;
+  width: 150px;
+  margin-bottom: 65px;
+
+}
+
+.register-right-slide {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: white;
+  padding: 50px;
+  width: 40%;
+  height: 70%;
+}
+
+
+.register-right-slide h2 {
+  padding: -400px;
+  margin-bottom: auto;
+  margin-top: 110px;
+font-size: 45px;
+}
+
+.register-right-slide div {
+  margin-bottom: 20px;
+}
+
+.register-email-label{
+ display: block;
+  padding-bottom: 10px;
+  padding-right: 380px;
+
+}
+
+.register-password-label{
+ display: block;
+  padding-bottom: 10px;
+  padding-right: 350px;
+
+}
+.register-fName-label{
+display: block;
+  padding-bottom: 10px;
+   text-align: left;
+
+}
+.register-lName-label{
+ display: block;
+  padding-bottom: 10px;
+   text-align: left;
+ 
+
+}
+.register-address-label{
+ display: block;
+
+  padding-bottom: 10px;
+   text-align: left;
+
+
+}
+.register--confirm-password-label{
+   display: block;
+
+  padding-bottom: 10px;
+   text-align: left;
+
+
+}
+
+.register-address-label{
+   display: block;
+
+  padding-bottom: 10px;
+   text-align: left;
+}
+.date_of_birth-label{
+ display: block;
+
+  padding-bottom: 0px;
+   text-align: left;
+
+
+}
+
+.password-input-container {
+  position: relative;
+}
+
+.password-toggle-button {
+  position: absolute;
+  top: 70%;
+  right: 5px;
+  transform: translateY(-50%);
+}
+
+
+
+input[placeholder="date_of_birthR"] {
+  border: 1px solid #ccc;
+  padding: 5px;
+  border-radius: 20px;
+  font-size: 16px;
+  width: 450px;
+  height: 50px;
+   border: 1px solid #000000;
+  font-family: Arial, sans-serif;
+  box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.1);
+}
+
+.register-right-slide input[placeholder='Email'],
+.register-right-slide input[type='password'] ,
+.register-right-slide input[placeholder='Address']
+.register-right-slide  input[placeholder="date_of_birthR"],
+.register-right-slide input[type='text'] 
+
+{
+ 
+  padding: 15px;
+  padding-bottom: 20px;
+ 
+  border: 1px solid #000000;
+  border-radius: 200px;
+  width: 450px;
+  
+  box-sizing: border-box;
+}
+
+.register-right-slide input[placeholder="First Name"],
+.register-right-slide input[placeholder='Last Name']
+
+
+
+{
+  padding:15px;
+  border: 1px solid #000000;
+  border-radius: 200px;
+  width: 220px;
+     margin-right: 10px;
+  
+  
+  box-sizing: border-box;
+}
+
+.row {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+
+
+
+
+.register-forgot-password{
+
+   padding-left: 270px;
+    text-decoration: none;
+
+}
+
+.register-right-slide button {
+  padding: 10px 0px;
+  border: none;
+  border-radius: 200px;
+  background-color: #321375;
+  color: white;
+  font-size: 1.2rem;
+  margin-top: -10px;
+  cursor: pointer;
+  width: 150px;
+margin-bottom: 80px;
+
+}

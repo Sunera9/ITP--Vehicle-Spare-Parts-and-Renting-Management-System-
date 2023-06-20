@@ -1,0 +1,207 @@
+
+
+
+
+
+.slide-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 120vh;
+
+   
+
+}
+
+.login-left-slide {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #321375;
+  color: white;
+  padding: 50px;
+  width: 30%;
+  height: 70%;
+  border: #000000;
+ 
+}
+.login-left-slide img {
+  width: 200px;
+  height: 200px;
+  margin-bottom: 65px;
+ 
+}
+
+.login-login-left-slide h3 {
+  font-size: 35px;
+  margin-bottom: 65px;
+  
+}
+
+.login-left-slide button {
+  padding: 10px 30px;
+  border: none;
+  background-color: white;
+  color: #321375;
+  font-size: 1.2rem;
+  margin-top: 20px;
+  cursor: pointer;
+  border-radius: 20px;
+  width: 150px;
+  margin-bottom: 65px;
+
+}
+
+.login-right-slide {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: white;
+  padding: 50px;
+  width: 30%;
+  height: 70%;
+}
+
+
+
+
+.login-right-slide h2 {
+  margin-bottom: 80px;
+font-size: 45px;
+}
+
+.login-right-slide div {
+  margin-bottom: 20px;
+}
+
+.login-email-label{
+ display: block;
+  padding-bottom: 10px;
+  padding-right: 380px;
+
+}
+
+.login-password-label{
+ display: block;
+  padding-bottom: 10px;
+  padding-right: 350px;
+
+}
+
+.login-right-slide input[type='email'],
+.login-right-slide input[type='password'] {
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 200px;
+  width: 450px;
+  
+  box-sizing: border-box;
+}
+
+.login-forgot-password{
+
+   padding-left: 270px;
+    text-decoration: none;
+
+}
+
+.login-right-slide button {
+  padding: 10px 30px;
+  border: none;
+  border-radius: 200px;
+  background-color: #321375;
+  color: white;
+  font-size: 1.2rem;
+  margin-top: 20px;
+  cursor: pointer;
+  width: 150px;
+margin-bottom: 30px;
+
+}
+
+/* // Form CSS */
+
+
+
+
+
+
+
+.login-slide-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 120vh;
+  background-color: #000000;
+background: linear-gradient(125deg, #ECFCFF 0%, #ECFCFF 40%, #B2FCFF calc(40% + 1px), #B2FCFF 60%, #5EDFFF calc(60% + 1px), #5EDFFF 72%, #3E64FF calc(72% + 1px), #3E64FF 100%);
+  border: #000000;
+    background-size: cover;
+    border-width: 20px;
+}
+
+.register-left-slide {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #321375;
+  color: white;
+  padding: 50px;
+  width: 30%;
+  height: 70%;
+ 
+}
+.login--left-slide img {
+  width: 200px;
+  height: 200px;
+  margin-bottom: 65px;
+ 
+}
+
+
+
+
+
+.email-label{
+ display: block;
+  padding-bottom: 10px;
+  padding-right: 380px;
+
+}
+
+.password-label{
+ display: block;
+  padding-bottom: 10px;
+  padding-right: 350px;
+
+}
+
+
+
+
+
+.register-forgot-password{
+
+   padding-left: 270px;
+    text-decoration: none;
+
+}
+
+.register-right-slide button {
+  padding: 10px 30px;
+  border: none;
+  border-radius: 200px;
+  background-color: #321375;
+  color: white;
+  font-size: 1.2rem;
+  margin-top: 20px;
+  cursor: pointer;
+  width: 150px;
+margin-bottom: 30px;
+
+}
+
+
+

@@ -1,0 +1,978 @@
+.addnewpendingbill-container {
+  min-height: 100vh;
+}
+.addnewpendingbill-addnewpendingbill {
+  width: 100%;
+  height: 1024px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  background-color: rgba(255, 255, 255, 1);
+}
+.addnewpendingbill-blurred-background3 {
+  top: -64px;
+  left: 261px;
+  width: 1950px;
+  height: 1097px;
+  position: absolute;
+  border-color: transparent;
+}
+.addnewpendingbill-rectangle25 {
+  top: 265px;
+  left: 497px;
+  width: 738px;
+  height: 672px;
+  position: absolute;
+  border-color: rgba(50, 19, 117, 1);
+  border-style: solid;
+  border-width: 10px;
+  border-radius: 10px;
+}
+.addnewpendingbill-rectangle2 {
+  top: 0px;
+  left: 280px;
+  width: 1300px;
+  height: 72px;
+  position: absolute;
+  border-color: transparent;
+}
+.addnewpendingbill-rectangle3 {
+  top: -8px;
+  left: -9px;
+  width: 289px;
+  height: 1032px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 1px;
+}
+.addnewpendingbill-pn-logoimage1 {
+  top: 20px;
+  left: 50px;
+  width: 180px;
+  height: 126px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 0 10px 0 0;
+}
+.addnewpendingbill-rectangle10 {
+  top: 179px;
+  left: 23px;
+  width: 225px;
+  height: 40px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 120px;
+}
+.addnewpendingbill-rectangle15 {
+  top: 240px;
+  left: 23px;
+  width: 225px;
+  height: 40px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 120px;
+}
+.addnewpendingbill-rectangle16 {
+  top: 301px;
+  left: 23px;
+  width: 225px;
+  height: 40px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 120px;
+}
+.addnewpendingbill-rectangle17 {
+  top: 362px;
+  left: 23px;
+  width: 225px;
+  height: 40px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 120px;
+}
+.addnewpendingbill-rectangle18 {
+  top: 423px;
+  left: 23px;
+  width: 225px;
+  height: 40px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 120px;
+}
+.addnewpendingbill-rectangle19 {
+  top: 484px;
+  left: 23px;
+  width: 225px;
+  height: 40px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 120px;
+}
+.addnewpendingbill-rectangle20 {
+  top: 545px;
+  left: 23px;
+  width: 225px;
+  height: 40px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 120px;
+}
+.addnewpendingbill-rectangle21 {
+  top: 606px;
+  left: 23px;
+  width: 225px;
+  height: 40px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 120px;
+}
+.addnewpendingbill-text {
+  top: 191px;
+  left: 102px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Semi Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.addnewpendingbill-text02 {
+  top: 252px;
+  left: 102px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Semi Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.addnewpendingbill-text04 {
+  top: 313px;
+  left: 108px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Semi Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.addnewpendingbill-text06 {
+  top: 374px;
+  left: 111px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Semi Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.addnewpendingbill-text08 {
+  top: 435px;
+  left: 95px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Semi Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.addnewpendingbill-text10 {
+  top: 496px;
+  left: 103px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Semi Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.addnewpendingbill-text12 {
+  top: 557px;
+  left: 106px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Semi Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.addnewpendingbill-text14 {
+  top: 618px;
+  left: 99px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Semi Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.addnewpendingbill-rectangle14 {
+  top: 17px;
+  left: 1136px;
+  width: 121px;
+  height: 30px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 20px;
+}
+.addnewpendingbill-text16 {
+  top: 24px;
+  left: 1136px;
+  color: rgba(30, 30, 30, 1);
+  width: 124px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.addnewpendingbill-mdiaccount {
+  top: 6px;
+  left: 1301px;
+  width: 60px;
+  height: 58px;
+  position: absolute;
+}
+.addnewpendingbill-frame25 {
+  top: 401px;
+  left: 566.5px;
+  width: 140px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  border-color: transparent;
+  justify-content: flex-end;
+}
+.addnewpendingbill-frame23 {
+  display: flex;
+  left: 150px;
+  padding: 10px;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: transparent;
+  border-radius: 20px;
+  justify-content: center;
+}
+.addnewpendingbill-text18 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.addnewpendingbill-frame251 {
+  top: 465px;
+  left: 566.5px;
+  width: 140px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  border-color: transparent;
+  justify-content: flex-end;
+  background-color: rgba(173, 164, 191, 1);
+  border-radius: 20px;
+}
+.addnewpendingbill-frame231 {
+  display: flex;
+  padding: 10px;
+  margin-right: 35px;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: transparent;
+  border-radius: 20px;
+  justify-content: center;
+  background-color: rgba(173, 164, 191, 1);
+}
+.addnewpendingbill-text20 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.addnewpendingbill-frame252 {
+  top: 529px;
+  left: 566.5px;
+  width: 140px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  border-color: transparent;
+  justify-content: flex-end;
+  background-color: rgba(173, 164, 191, 1);
+  border-radius: 20px;
+}
+.addnewpendingbill-frame232 {
+  display: flex;
+  padding: 10px;
+  margin-right: 32px;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: transparent;
+  border-radius: 20px;
+  justify-content: center;
+  background-color: rgba(173, 164, 191, 1);
+}
+.addnewpendingbill-text22 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.addnewpendingbill-frame253 {
+  top: 593px;
+  left: 566.5px;
+  width: 140px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  border-color: transparent;
+  justify-content: flex-end;
+  background-color: rgba(173, 164, 191, 1);
+  border-radius: 20px;
+}
+.addnewpendingbill-frame233 {
+  display: flex;
+  padding: 10px;
+  margin-right: 40px;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: transparent;
+  border-radius: 20px;
+  justify-content: center;
+  background-color: rgba(173, 164, 191, 1);
+}
+.addnewpendingbill-text24 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.addnewpendingbill-frame254 {
+  top: 657px;
+  left: 566.5px;
+  width: 140px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  border-color: transparent;
+  justify-content: flex-end;
+  background-color: rgba(173, 164, 191, 1);
+  border-radius: 20px;
+}
+.addnewpendingbill-frame234 {
+  display: flex;
+  padding: 10px;
+  margin-right: 27px;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: transparent;
+  border-radius: 20px;
+  justify-content: center;
+  background-color: rgba(173, 164, 191, 1);
+}
+.addnewpendingbill-text26 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.addnewpendingbill-frame255 {
+  top: 721px;
+  left: 566.5px;
+  width: 140px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  border-color: transparent;
+  justify-content: flex-end;
+  background-color: rgba(173, 164, 191, 1);
+  border-radius: 20px;
+}
+.addnewpendingbill-frame235 {
+  display: flex;
+  padding: 10px;
+  margin-right: 23px;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: transparent;
+  border-radius: 20px;
+  justify-content: center;
+  background-color: rgba(173, 164, 191, 1);
+}
+.addnewpendingbill-text28 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.addnewpendingbill-frame256 {
+  top: 785px;
+  left: 566.5px;
+  width: 140px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  border-color: transparent;
+  justify-content: flex-end;
+  background-color: rgba(173, 164, 191, 1);
+  border-radius: 20px;
+}
+.addnewpendingbill-frame236 {
+  display: flex;
+  padding: 10px;
+  margin-right: 40px;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: transparent;
+  border-radius: 20px;
+  justify-content: center;
+  background-color: rgba(173, 164, 191, 1);
+}
+.addnewpendingbill-text30 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.addnewpendingbill-ellipse1 {
+  top: 211px;
+  left: 545px;
+  width: 173px;
+  height: 163px;
+  position: absolute;
+  border-color: rgba(50, 19, 117, 1);
+  border-style: solid;
+  border-width: 0px;
+}
+.addnewpendingbill-mdialarmclock {
+  top: 286px;
+  left: 639px;
+  width: 63px;
+  height: 54px;
+  position: absolute;
+}
+.addnewpendingbill-rectangle26 {
+  top: 856px;
+  left: 777px;
+  width: 155px;
+  height: 36px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 10px;
+}
+.addnewpendingbill-text32 {
+  top: 863px;
+  left: 769px;
+  color: rgba(255, 255, 255, 1);
+  width: 171px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Extra Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.addnewpendingbill-rectangle27 {
+  top: 856px;
+  left: 1012px;
+  width: 155px;
+  height: 36px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 10px;
+}
+.addnewpendingbill-text34 {
+  top: 863px;
+  left: 1012px;
+  color: rgba(255, 255, 255, 1);
+  width: 171px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Extra Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.addnewpendingbill-iconparkoutlinefileadditionone {
+  top: 251px;
+  left: 573px;
+  width: 62px;
+  height: 62px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.addnewpendingbill-group {
+  top: 5.1666669845581055px;
+  left: 10.333333015441895px;
+  width: 41.33333206176758px;
+  height: 51.666664123535156px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.addnewpendingbill-vector {
+  top: 0px;
+  left: 0px;
+  width: 41px;
+  height: 52px;
+  position: absolute;
+}
+.addnewpendingbill-vector1 {
+  top: -3.178914482759865e-7px;
+  left: 28.416667938232422px;
+  width: 13px;
+  height: 13px;
+  position: absolute;
+}
+.addnewpendingbill-rectangle31 {
+  top: 105px;
+  left: 334px;
+  width: 478px;
+  height: 72px;
+  position: absolute;
+  border-color: transparent;
+}
+.addnewpendingbill-text36 {
+  top: 120px;
+  left: 342px;
+  color: rgba(50, 19, 117, 1);
+  width: 456px;
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  align-self: auto;
+  font-style: Extra Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.addnewpendingbill-text38 {
+  top: 321px;
+  left: 777px;
+  color: rgba(50, 19, 117, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Extra Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.addnewpendingbill-frame26 {
+  top: 403px;
+  left: 776px;
+  width: 389px;
+  display: flex;
+  padding: 10px;
+  position: absolute;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 20px;
+  justify-content: center;
+  background-color: rgba(255, 255, 255, 1);
+}
+.addnewpendingbill-text40 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Semi Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.addnewpendingbill-frame27 {
+  top: 464px;
+  left: 777px;
+  width: 389px;
+  display: flex;
+  padding: 10px;
+  position: absolute;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 20px;
+  justify-content: center;
+  background-color: rgba(255, 255, 255, 1);
+}
+.addnewpendingbill-text42 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Semi Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.addnewpendingbill-frame28 {
+  top: 529px;
+  left: 776px;
+  width: 389px;
+  display: flex;
+  padding: 10px;
+  position: absolute;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 20px;
+  justify-content: center;
+  background-color: rgba(255, 255, 255, 1);
+}
+.addnewpendingbill-text44 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Semi Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.addnewpendingbill-frame29 {
+  top: 593px;
+  left: 776px;
+  width: 389px;
+  display: flex;
+  padding: 10px;
+  position: absolute;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 20px;
+  justify-content: center;
+  background-color: rgba(255, 255, 255, 1);
+}
+.addnewpendingbill-text46 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Semi Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.addnewpendingbill-frame30 {
+  top: 657px;
+  left: 777px;
+  width: 389px;
+  display: flex;
+  padding: 10px;
+  position: absolute;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 20px;
+  justify-content: center;
+  background-color: rgba(255, 255, 255, 1);
+}
+.addnewpendingbill-text48 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Semi Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.addnewpendingbill-frame31 {
+  top: 721px;
+  left: 777px;
+  width: 389px;
+  display: flex;
+  padding: 10px;
+  position: absolute;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 20px;
+  justify-content: center;
+  background-color: rgba(255, 255, 255, 1);
+}
+.addnewpendingbill-text50 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Semi Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.addnewpendingbill-frame24 {
+  top: 785px;
+  left: 776px;
+  width: 389px;
+  display: flex;
+  padding: 10px;
+  position: absolute;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 20px;
+  justify-content: center;
+  background-color: rgba(255, 255, 255, 1);
+}
+.addnewpendingbill-text52 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Semi Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}

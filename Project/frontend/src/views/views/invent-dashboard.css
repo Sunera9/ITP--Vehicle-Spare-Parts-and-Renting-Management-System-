@@ -1,0 +1,578 @@
+.invent-dashboard-container {
+  min-height: 100vh;
+}
+.invent-dashboard-invent-dashboard {
+  width: 100%;
+  height: 1024px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.invent-dashboard-rectangle81 {
+  top: 340px;
+  left: 339px;
+  width: 1061px;
+  height: 655px;
+  position: absolute;
+}
+.invent-dashboard-rectangle75 {
+  top: -64px;
+  left: 261px;
+  width: 1514px;
+  height: 1097px;
+  position: absolute;
+}
+.invent-dashboard-rectangle77 {
+  top: 105px;
+  left: 334px;
+  width: 478px;
+  height: 72px;
+  position: absolute;
+}
+.invent-dashboard-menubar {
+  top: -4px;
+  left: 0px;
+  width: 289px;
+  height: 1032px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.invent-dashboard-rectangle3 {
+  top: 0px;
+  left: 0px;
+  width: 289px;
+  height: 1032px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 1px;
+}
+.invent-dashboard-pn-logoimage1 {
+  top: 28px;
+  left: 59px;
+  width: 180px;
+  height: 126px;
+  position: absolute;
+  border-radius: 0 10px 0 0;
+}
+.invent-dashboard-rectangle10button {
+  top: 187px;
+  left: 32px;
+  width: 225px;
+  height: 40px;
+  position: absolute;
+  border-radius: 120px;
+}
+.invent-dashboard-rectangle15button {
+  top: 248px;
+  left: 32px;
+  width: 225px;
+  height: 40px;
+  position: absolute;
+  border-radius: 120px;
+}
+.invent-dashboard-rectangle16button {
+  top: 309px;
+  left: 32px;
+  width: 225px;
+  height: 40px;
+  position: absolute;
+  border-radius: 120px;
+}
+.invent-dashboard-rectangle17button {
+  top: 370px;
+  left: 32px;
+  width: 225px;
+  height: 40px;
+  position: absolute;
+  border-radius: 120px;
+}
+.invent-dashboard-rectangle18button {
+  top: 431px;
+  left: 32px;
+  width: 225px;
+  height: 40px;
+  position: absolute;
+  border-radius: 120px;
+}
+.invent-dashboard-rectangle19button {
+  top: 492px;
+  left: 32px;
+  width: 225px;
+  height: 40px;
+  position: absolute;
+  border-radius: 120px;
+}
+.invent-dashboard-rectangle20button {
+  top: 553px;
+  left: 32px;
+  width: 225px;
+  height: 40px;
+  position: absolute;
+  border-radius: 120px;
+}
+.invent-dashboard-rectangle21button {
+  top: 614px;
+  left: 32px;
+  width: 225px;
+  height: 40px;
+  position: absolute;
+  border-radius: 120px;
+}
+.invent-dashboard-text {
+  top: 199px;
+  left: 111px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Semi Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.invent-dashboard-text02 {
+  top: 260px;
+  left: 111px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Semi Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.invent-dashboard-text04 {
+  top: 321px;
+  left: 117px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Semi Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.invent-dashboard-text06 {
+  top: 382px;
+  left: 115px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Semi Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.invent-dashboard-text08 {
+  top: 443px;
+  left: 105px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Semi Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.invent-dashboard-text10 {
+  top: 504px;
+  left: 119px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Semi Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.invent-dashboard-text12 {
+  top: 565px;
+  left: 112px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Semi Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.invent-dashboard-text14 {
+  top: 626px;
+  left: 108px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Semi Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.invent-dashboard-topbar {
+  top: 0px;
+  left: 289px;
+  width: 1151px;
+  height: 72px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.invent-dashboard-topbar1 {
+  top: 0px;
+  left: 0px;
+  width: 1151px;
+  height: 72px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.invent-dashboard-rectangle2 {
+  top: 0px;
+  left: 0px;
+  width: 1240px;
+  height: 72px;
+  position: absolute;
+}
+.invent-dashboard-rectangle14 {
+  top: 17px;
+  left: 849.358642578125px;
+  width: 120px;
+  height: 30px;
+  position: absolute;
+  border-radius: 20px;
+}
+.invent-dashboard-text16 {
+  top: 24px;
+  left: 849.358642578125px;
+  color: rgba(30, 30, 30, 1);
+  width: 123px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.invent-dashboard-mdiaccount {
+  top: 6px;
+  left: 1013.0784301757812px;
+  width: 60px;
+  height: 58px;
+  position: absolute;
+}
+.invent-dashboard-text18 {
+  top: 105px;
+  left: 342px;
+  color: rgba(50, 19, 117, 1);
+  width: 456px;
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Extra Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.invent-dashboard-rectangle6 {
+  top: 125px;
+  left: 968px;
+  width: 418px;
+  height: 32px;
+  position: absolute;
+  box-sizing: content-box;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 3px;
+  border-radius: 20px;
+}
+.invent-dashboard-text20 {
+  top: 133px;
+  left: 1072px;
+  color: rgba(0, 0, 0, 1);
+  width: 249px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.invent-dashboard-icons8search241 {
+  top: 128px;
+  left: 1008px;
+  width: 28px;
+  height: 27px;
+  position: absolute;
+  border-radius: 20px;
+}
+.invent-dashboard-addnewitembutton {
+  top: 196px;
+  left: 922px;
+  width: 189px;
+  height: 36px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  border-radius: 10px;
+  flex-shrink: 1;
+  background-color: rgba(74, 37, 155, 1);
+}
+.invent-dashboard-text22 {
+  top: 10px;
+  left: 18px;
+  color: rgba(255, 255, 255, 1);
+  width: 171px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Extra Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.invent-dashboard-materialsymbolsadd {
+  top: 5px;
+  left: 5px;
+  width: 25px;
+  height: 25px;
+  position: absolute;
+}
+.invent-dashboard-downloadbutton {
+  top: 196px;
+  left: 1164px;
+  width: 231px;
+  height: 36px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.invent-dashboard-downloadreport {
+  top: 0px;
+  left: 0px;
+  width: 231px;
+  height: 36px;
+  display: flex;
+  position: relative;
+  box-shadow: 0px 4px 20px 0px rgba(0, 0, 0, 0.25) ;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 10px;
+}
+.invent-dashboard-rectangle22 {
+  top: 0px;
+  left: 0px;
+  width: 231px;
+  height: 36px;
+  position: absolute;
+  border-radius: 10px;
+}
+.invent-dashboard-text24 {
+  top: 8px;
+  left: 52px;
+  color: rgba(255, 255, 255, 1);
+  width: 171px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Extra Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.invent-dashboard-materialsymbolsdownloadrounded {
+  top: 5px;
+  left: 12px;
+  width: 25px;
+  height: 25px;
+  position: absolute;
+}
+.invent-dashboard-lowstock-itembutton {
+  top: 246px;
+  left: 1164px;
+  width: 231px;
+  height: 36px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.invent-dashboard-downloadreport1 {
+  top: 0px;
+  left: 0px;
+  width: 231px;
+  height: 36px;
+  display: flex;
+  position: relative;
+  box-shadow: 0px 4px 20px 0px rgba(0, 0, 0, 0.25) ;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 10px;
+}
+.invent-dashboard-rectangle221 {
+  top: 0px;
+  left: 0px;
+  width: 231px;
+  height: 36px;
+  position: absolute;
+  border-radius: 10px;
+}
+.invent-dashboard-text26 {
+  top: 8px;
+  left: 52px;
+  color: rgba(255, 0, 0, 1);
+  width: 171px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Extra Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.invent-dashboard-text28 {
+  top: 300px;
+  left: 342px;
+  color: rgba(0, 0, 0, 1);
+  width: 354px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Extra Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.invent-dashboard-text30 {
+  top: 300px;
+  left: 342px;
+  color: rgba(0, 0, 0, 1);
+  width: 354px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Extra Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.invent-dashboard-text32 {
+  top: 300px;
+  left: 342px;
+  color: rgba(0, 0, 0, 1);
+  width: 354px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Extra Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+
+
+
+
+#inventItem {
+  border-collapse: collapse;
+  width: 100%;
+}
+#inventItem th {
+  border: 1px solid #ddd;
+  padding-top: 7px;
+  padding-bottom: 7px;
+  padding: 0px;
+  padding-left: 30px;
+  padding-right: 30px;
+  text-decoration-color: #ddd;
+  text-align: center;
+  font-weight: 600;
+  font-size: small;
+  background-color: #4B259B;
+  color: white;
+}
+
+#inventItem tr {
+  line-height: 40px;
+}
+
+
+#inventItem tr:nth-child(even){
+  background-color: #ADA4BF;
+}
+
+#inventItem td {
+  padding: 8px;
+  text-align: start;
+  padding-left: 30px;
+  padding-right: 2px;
+  line-height: 40px;
+  
+}

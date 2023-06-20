@@ -1,0 +1,590 @@
+@import "../components/Dashboard.scss";
+
+.component14 {
+  padding: 0 12px 0 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.flexWrapperNine {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: center;
+  margin-top: 80px;
+}
+.flexWrapperTwelve {
+  margin-right: 81px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.itemsCartCheckout {
+  color: rgb(50, 19, 117);
+    display: flex;
+    text-align: center;
+    margin-bottom: 3px;
+    margin-left: 30px; 
+    margin-top: 100px;  
+  @include inter-13-extra-bold;
+}
+.shippingAddress {
+  color: rgb(50, 19, 117);
+  display: flex;
+  text-align: center;
+  margin-bottom: 21px;  
+  @include inter-13-extra-bold;
+}
+.ShippingSection{
+  display: block;
+}
+.itemBlock{
+  width: 500px;
+    display: flex;
+    padding-top: 50px;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    align-items: center;
+}
+.radioWrapper{
+  width: 180px;
+  display: block;
+}
+.RadLable{
+  height: 40px;
+  width: 150px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  align-items: center;
+  gap: 10px;
+}
+.flexWrapperFour0 {
+  display: flex;
+  align-items: flex-start;
+}
+.wrapcontents{
+  width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    flex-wrap: nowrap;
+}
+.radioGroup{
+  display: grid;
+  grid-template-columns: auto auto;
+  justify-content: space-around;
+}
+.itemIdTwo{
+  height: 30px;
+  width: 194px;
+  color: rgb(255, 255, 255);
+  padding: 5px 10px;
+  border-radius: 10px;
+  background-color: rgb(75, 37, 155);
+  text-align: center;
+  font-family: "Inter";
+  font-size: 13px;
+  margin-top: 20px;
+  font-weight: 800;
+  line-height: normal;
+
+}
+.wrapBankSlip{
+  display: block;
+  width: 350px;
+  height: auto;
+  float: right;
+}
+
+.flexWrapperFour {
+  background-color: rgba(255, 255, 255, 1);
+  margin-left: 167px;
+  padding: 6px 65px 13px 64px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  border: 10px solid rgba(50, 19, 117, 1);
+}
+.address01 {
+  color: $midnight-blue;
+  display: flex;
+  text-align: center;
+  @include inter-13-extra-bold;
+}
+.sPerera94771234567Two {
+  color: rgba(0, 0, 0, 1);
+  display: flex;
+  text-align: center;
+  @include inter-24-semi-bold;
+}
+.relativeWrapperOne {
+  margin-bottom: 25px;
+  position: relative;
+}
+.flexWrapperFive {
+  display: flex;
+  align-items: flex-start;
+  position: absolute;
+  left: 44px;
+  bottom: -25px;
+}
+.no233rdLaneMainStreetKandy20000 {
+  font-family: "Inter";
+  font-size: 20px;
+  font-weight: 600;
+  line-height: normal;
+  color: rgba(0, 0, 0, 1);
+  flex: 1;
+  align-self: stretch;
+  display: flex;
+  text-align: center;
+  position: relative;
+}
+.no233rdLaneMainStreetKandy20000Two {
+  height: 100%;
+  width: 100%;
+  font-family: "Inter";
+  font-size: 20px;
+  font-weight: 600;
+  line-height: normal;
+  color: rgba(0, 0, 0, 1);
+  display: flex;
+  text-align: center;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+.sPerera94771234567 {
+  height: 65%;
+  width: 103.15%;
+  font-family: "Inter";
+  font-size: 24px;
+  font-weight: 600;
+  line-height: normal;
+  color: rgba(0, 0, 0, 1);
+  display: flex;
+  text-align: center;
+  position: absolute;
+  left: -17px;
+  top: -23px;
+}
+.flexWrapperSix {
+  width: 539px;
+  height: 80px;
+  position: relative;
+}
+.relativeWrapperTwo {
+  margin-left: 180px;
+  position: relative;
+}
+.change {
+  height: 61.11%;
+  width: 110.32%;
+  font-family: "Inter";
+  font-size: 16px;
+  font-weight: 800;
+  line-height: normal;
+  color: rgba(255, 255, 255, 1);
+  display: flex;
+  text-align: center;
+  position: absolute;
+  left: -8px;
+  top: 7px;
+}
+.flexWrapperSeven {
+  background-color: rgba(75, 37, 155, 1);
+  border-radius: 10px;
+  padding: 6px 9px 6px 122px;
+  position: relative;
+}
+.gridiconsdropdown {
+  width: calc(100% - 14px);
+  height: calc(100% - 19px);
+  padding: 10px 7px 9px;
+  display: flex;
+  align-items: center;
+}
+.vector {
+  flex: 1;
+  align-self: stretch;
+  object-fit: cover;
+}
+.flexWrapperThirteen {
+  padding: 16px 0 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.itemName {
+  height: 14.21%;
+  margin-top: 0;
+  width: 40.4%;
+  color: rgb(50, 19, 117);
+  display: flex;
+  text-align: center;
+  @include inter-13-extra-bold;
+}
+.flexWrapperEight {
+  background-color: rgb(50, 19, 117);
+  border-radius: 15px;
+  padding: 14px 42px 11px;
+  height: 112px;
+  width: 370px;
+  box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.25);
+  display: flex;
+  align-items: flex-start;
+  border: 1px solid rgb(255, 255, 255);
+}
+.countWrapper{
+  display: block;
+}
+.flexWrapperSeventeen {
+  margin-right: 27px;
+  padding: 8px 0 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.toyotaCamryBrakePads {
+  height: 71.05%;
+  color: rgba(255, 255, 255, 1);
+  align-self: stretch;
+  @include poppins-18-medium;
+}
+.itemNo100 {
+  width: 62.7%;
+  height: 50%;
+  color: rgba(255, 255, 255, 1);
+  margin-left: 9px;
+  @include nunito-14-medium;
+}
+.rectangle25 {
+  width: 130px;
+  height: 80px;
+  box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.25);
+  border: 1px solid rgb(255, 255, 255);
+  border-radius: 15px;
+  margin-top: 13px;
+}
+.flexWrapperFourteen {
+  display: flex;
+  align-items: flex-start;
+  &:not(:last-of-type) {
+    margin-bottom: 6px;
+  }
+}
+.subtotal {
+  width: 55.2%;
+  height: 80.95%;
+  color: rgba(50, 19, 117, 1);
+  margin-right: 74px;
+  @include inter-14-medium;
+}
+.num20000 {
+  max-width: 138px;
+  width: 55.2%;
+  color: rgba(50, 19, 117, 1);
+  align-self: stretch;
+  text-align: right;
+  @include poppins-14-medium;
+}
+.flexWrapperFifteen {
+  margin-bottom: 0.46px;
+  display: flex;
+  align-items: flex-start;
+}
+.loyaltyBonus5min {
+  width: 64.4%;
+  height: 80.95%;
+  color: rgba(50, 19, 117, 1);
+  margin-right: 51px;
+  @include inter-14-medium;
+}
+.flexWrapperThree {
+  width: 353px;
+  height: 1.5px;
+  background: linear-gradient(
+      rgba(50, 19, 117, 1),
+      rgba(50, 19, 117, 1)
+    ),
+    rgba(50, 19, 117, 1);
+  margin-bottom: 7.58px;
+}
+.flexWrapperTen {
+  margin-bottom: 12px;
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: space-between;
+}
+.totalTaxIncl {
+  height: 80.95%;
+  color: rgb(50, 19, 117);
+  margin: 0;
+  @include inter-14-medium;
+}
+.num21500 {
+  color: rgb(50, 19, 117);
+  margin: 0;
+  @include poppins-14-medium;
+}
+.line5 {
+  height: 0.25%;
+  background-color: rgba(50, 19, 117, 1);
+  margin-bottom: 4.04px;
+}
+.flexWrapperEleven {
+  padding: 0 0 36px 12px;
+  display: flex;
+  align-items: flex-start;
+}
+.flexWrapperEighteen {
+  margin-right: 53px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.paymentMethod { 
+  color: rgba(50, 19, 117, 1);
+  margin-bottom: 11px;  
+  @include inter-13-extra-bold;
+}
+.line1 {
+  width: 85.16%;
+  height: 0.55%;
+  background-color: rgba(255, 255, 255, 1);
+  margin-bottom: 2px;
+}
+.frame1 {
+  width: calc(56.69% - 61.99px);
+  height: calc(20.9% - 14.09px);
+  background-color: rgba(255, 255, 255, 1);
+  margin-bottom: 6.12px;
+  margin-left: 175.97px;
+  padding: 7.1px 30.98px 6.99px 31.01px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.icoutlineRadioButtonUnchecked {
+  margin-right: 10px;
+  padding: 2px;
+  display: flex;
+  align-items: center;
+  width: 20px;
+  height: 20px;
+}
+.sampathVishwa {
+  width: 137px;
+  color: rgba(0, 0, 0, 1);
+  text-align: center;
+  @include inter-16-medium;
+}
+.frame14 {
+  width: calc(57.42% - 69px);
+  height: calc(21.95% - 20px);
+  background-color: rgba(173, 164, 191, 1);
+  margin-bottom: 3px;
+  margin-left: 175px;
+  padding: 10px 34.5px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.vectorTwo {
+  width: 20px;
+  height: 20px;
+  margin-right: 10px;
+}
+.frame8 {
+  width: calc(56.93% - 125px);
+  height: 24.15%;
+  margin-left: 176px;
+  padding: 0 125px 0 0;
+  position: relative;
+}
+.frame{
+  width: 570px;
+  height: 275px;
+  border: 15px solid rgb(75, 37, 155);
+  display: flex;
+  padding: 52px 0;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  align-items: center;
+}
+.frame1Two {
+  background-color: rgba(255, 255, 255, 1);
+  padding: 10px 30px;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+.icroundRadioButtonChecked {
+  margin-right: 10px;
+  padding: 2px;
+}
+.vectorThree {
+  width: 100%;
+  height: 100%;
+}
+.cod {
+  width: 142px;
+  color: rgba(0, 0, 0, 1);
+  text-align: center;
+  @include inter-16-medium;
+}
+.flexWrapperNineteen {
+  margin-right: 121px;
+  padding: 36px 0 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.flexWrapperTwentyOne {
+  margin-bottom: 36px;
+  padding: 0 0 0 8px;
+  display: flex;
+  align-items: flex-start;
+}
+.seeAll {
+  height: 13.59%;
+  width: 17.95%;
+  font-family: "Open Sans";
+  font-size: 14px;
+  font-weight: 700;
+  line-height: normal;
+  color: rgba(254, 252, 252, 1);
+  display: flex;
+  text-align: center;
+  margin-top: 34px;
+  margin-right: 9px;
+}
+.frame13Two {
+  width: calc(81.73% - 17px);
+  padding: 0 17px 0 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  align-self: stretch;
+}
+.frame11 {
+  margin-bottom: 15px;
+  width: 218px;
+  position: relative;
+}
+.frame1Three {
+  background-color: rgba(255, 255, 255, 1);
+  padding: 10px 42.5px;
+  position: absolute;
+  right: -18px;
+  top: 0;
+}
+.masterCard {
+  width: 117px;
+  color: rgba(0, 0, 0, 1);
+  text-align: center;
+  @include inter-16-medium;
+}
+.frame13 {
+  background-color: rgba(173, 164, 191, 1);
+  display: flex;
+  align-items: center;
+  width: 238px;
+}
+.frame1Four {
+  background-color: rgba(173, 164, 191, 1);
+  padding: 10px 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 158px;
+}
+.icroundRadioButtonCheckedTwo {
+  margin-right: 10px;
+  padding: 2px;
+  width: 20px;
+  height: 20px;
+  position: relative;
+}
+.vectorFour {
+  width: 100%;
+  height: 100%;
+  position: relative;
+}
+.vectorFive {
+  width: 41.67%;
+  height: 41.67%;
+  background-color: rgba(0, 0, 0, 1);
+  border-radius: 50%;
+  position: absolute;
+  left: 7px;
+  top: 7px;
+}
+.bankSlipsShouldBeAddresedToXxxxxx {
+  height: 40.8%;
+  font-family: "Inter";
+  font-size: 20px;
+  font-weight: 300;
+  line-height: normal;
+  color: rgba(0, 0, 0, 1);
+  font-style: italic;
+  align-self: stretch;
+  display: flex;
+  text-align: center;
+}
+.flexWrapperTwenty {
+  margin-right: 7px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  margin-top: 15px;
+}
+.line6 {
+  width: 97.78%;
+  height: 0.77%;
+  background-color: rgba(50, 19, 117, 1);
+  margin-bottom: 51.04px;
+  margin-left: 4px;
+}
+.flexWrapperOne {
+  background-color: rgb(50, 19, 117);
+  height: 55px;
+  width: 200px;
+  margin-bottom: 34.5px;
+  border-radius: 12px;
+  align-items: center;
+  display: flex;
+  border: 1px solid rgb(255, 255, 255);
+  cursor: pointer;
+}
+.pay {
+  font-family: "Inter";
+  font-size: 16px;
+  font-weight: 700;
+  line-height: normal;
+  color: rgb(254, 252, 252);
+  text-align: center;
+  width: 100%;
+}
+.flexWrapperTwo {
+  background-color: rgb(50, 19, 117);
+  border-radius: 12px;
+  display: flex;
+  
+  align-items: center;
+  border: 1px solid rgb(255, 255, 255);
+  height: 55px;
+  width: 200px;
+  cursor: pointer;
+}
+.materialSymbolsdeleteForever {
+  width: 3.07%;
+  height: 21.43%;
+  background-color: rgba(255, 255, 255, 1);
+  margin-top: 151px;
+}

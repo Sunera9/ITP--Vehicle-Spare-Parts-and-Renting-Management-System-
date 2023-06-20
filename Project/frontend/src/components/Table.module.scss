@@ -1,0 +1,418 @@
+@import "Dashboard";
+
+.frame22 {
+  padding: 0 12px 46px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.frame13Two {
+  margin-bottom: 15px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.frame9 {
+    margin-bottom: 15px;
+    display: flex;
+    align-items: stretch;
+    flex-direction: row;
+    flex-wrap: nowrap;
+}
+.frame8 {
+  display: flex;
+  
+}
+.frame1 {
+  background-color: rgb(75, 37, 155);
+  padding: 10px 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 50px;
+  height: 50px;
+}
+.itemId {
+  color: $white;
+  text-align: center;
+  @include inter-16-bold;
+}
+.relativeWrapperOne {
+  position: relative;
+}
+.frame2 {
+  background-color: rgb(75, 37, 155);
+  display: flex;
+  justify-content: center;
+  width: 174px;
+  height: 70px;
+  align-items: center;
+  flex-wrap: nowrap;
+  flex-direction: row;
+}
+.frame3 {
+  background-color: $dark-slate-blue;
+  padding: 10px 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+ 
+}
+.frame5 {
+  background-color: $dark-slate-blue;
+  padding: 10px 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.frame4 {
+  background-color: $dark-slate-blue;
+  padding: 10px 44.65px 10px 44.64px;
+  position: relative;
+  height: 50px;
+}
+.frame7 {
+  background-color: $dark-slate-blue;
+  padding: 10px 10px;
+  height: 50px;;
+}
+.paymentMethod {
+  color: $white;
+  text-align: center;
+    @include inter-16-bold;
+}
+.frame2Two1{
+    background-color: rgb(173, 164, 191);
+    padding: 10px 10px;
+    position: relative;
+    width: 132px;
+    height: 50px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: nowrap;
+    align-items: center;
+}
+.frame6 {
+  background-color: $dark-slate-blue;
+  padding: 10px 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 131px;
+  height: 50px;
+}
+.status {
+  width: 114px;
+  color: $white;
+  text-align: center;
+  @include inter-16-bold;
+}
+.frame6Two {
+  background-color: rgb(75, 37, 155);
+  padding: 10px 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 75px;
+  height: 50px;
+}
+.frame1Twod{
+    background-color: $white;
+    padding: 10px 40.44px;
+    position: relative;
+    height: 50px;
+}
+.frame1Twoc{
+    background-color: $white;
+    padding: 10px 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 117px;
+}
+.frame1Twop{
+  padding: 10px 10px;
+  position: relative;
+  width: 132px;
+  height: 50px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  flex-wrap: nowrap;
+  align-items: center;
+}
+.frame1Two3{
+    background-color: $white;
+    padding: 10px 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 131px;
+}
+.frame1Two {
+  background-color: $white;
+  padding: 10px 40.44px;
+  position: relative;
+  height: 50px;
+}
+.itemIdTwo {
+  color: rgba(0, 0, 0, 1);
+  text-align: center;
+  overflow: hidden;
+  @include inter-13-bold;
+}
+.frame5Two {
+  background-color: $white;
+  padding: 10px 55.12px 10px 55.11px;
+  position: relative;
+  height: 68px;
+}
+.frame4Two {
+  background-color: $white;
+  padding: 10px 45.12px 10px 45.11px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  right: -127.22px;
+  top: 0;
+}
+.frame7Two {
+  background-color: $white;
+  padding: 10px 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 45px;
+}
+.frame6Three {
+  background-color: $white;
+  padding: 10px 40px;
+  width: 47px;
+  position: relative;
+}
+.proccessing {
+  color: rgba(0, 0, 0, 1);
+  text-align: center;
+  position: absolute;
+  left: -2.5px;
+  top: 12.5px;
+  @include inter-16-bold;
+}
+.gridiconsdropdown {
+  padding: 10px 7px 9px;
+  position: absolute;
+  left: 105.5px;
+  top: 10px;
+}
+.vector {
+  width: 100%;
+  height: 100%;
+}
+.frame6Four {
+  background-color: $white;
+  padding: 10px 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 43.86px;
+}
+.frame13 {
+  background-color: rgba(173, 164, 191, 1);
+  display: flex;
+  align-items: center;
+  width: 1012px;
+}
+.frame8Two {
+  padding: 0 0 5px;
+  display: flex;
+  align-items: flex-start;
+  flex: 1;
+  position: relative;
+}
+.frame1Three {
+    background-color: rgb(173, 164, 191);
+    display: flex;
+    justify-content: center;
+    width: 162px;
+    padding: 0 10px;
+    height: 70px;
+    align-items: center;
+    flex-wrap: nowrap;
+    flex-direction: row;
+
+}
+.frame1Two1{
+    background-color: rgb(173, 164, 191);
+    padding: 10px 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 117px;
+    height: 50px;
+    flex-direction: column;
+
+}
+.frame2Two {
+  background-color: rgba(173, 164, 191, 1);
+  padding: 10px 40.44px;
+  padding: 10px 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 50px;
+  height: 50px;
+}
+.frame3Two {
+  background-color: rgba(173, 164, 191, 1);
+  display: flex;
+  justify-content: center;
+  width: 200px;
+  height: 70px;
+  align-items: center;
+  flex-wrap: nowrap;
+  flex-direction: row;
+}
+.frame6Five {
+  background-color: rgba(173, 164, 191, 1);
+  padding: 10px 40px;
+  flex: 1;
+  position: absolute;
+  right: -0.01px;
+  top: 0;
+}
+.proccessingTwo {
+  color: rgba(0, 0, 0, 1);
+  text-align: center;
+  position: absolute;
+  left: -2.56px;
+  top: 12.5px;
+  @include inter-16-bold;
+}
+.gridiconsdropdownTwo {
+  padding: 10px 7px 9px;
+  position: absolute;
+  left: 105.44px;
+  top: 10px;
+}
+.frame6Six {
+  background-color: rgba(173, 164, 191, 1);
+  padding: 10px 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 43.86px;
+  height: 50px;
+}
+.frame13Three {
+    display: flex;
+    width: 100%;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-items: flex-start;
+}
+.frame2Three {
+  background-color: $white;
+  padding: 10px 40.44px;
+  position: relative;
+}
+.frame3Three {
+  background-color: $white;
+  padding: 10px 54.94px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  right: -126.87px;
+  top: 0;
+}
+.frame6Seven {
+  background-color: $white;
+  padding: 10px 40px;
+  flex: 1;
+  position: absolute;
+  right: -0.01px;
+  top: 0;
+}
+.frame12 {
+  background-color: rgba(173, 164, 191, 1);
+  margin-bottom: 15px;
+  display: flex;
+  align-items: center;
+  width: 1012px;
+}
+.frame6Eight {
+  background-color: $white;
+  padding: 10px 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex: 1;
+  position: absolute;
+  right: -0.01px;
+  top: 0;
+}
+.completed {
+  color: rgba(0, 0, 0, 1);
+  text-align: center;
+  margin-right: 10px;
+  @include inter-16-bold;
+}
+.gridiconsdropdownThree {
+  padding: 10px 7px 9px;
+  display: flex;
+  align-items: center;
+  width: 10px;
+  height: 5px;
+}
+.vectorTwo {
+  flex: 1;
+  align-self: stretch;
+  object-fit: cover;
+}
+.completedTwo {
+  width: 105px;
+  color: rgba(0, 0, 0, 1);
+  text-align: center;
+  position: absolute;
+  left: -6.06px;
+  top: 12.5px;
+  @include inter-16-bold;
+}
+.gridiconsdropdownFour {
+  padding: 10px 7px 9px;
+  position: absolute;
+  left: 108.94px;
+  top: 10px;
+}
+.frame6Nine {
+  background-color: rgba(173, 164, 191, 1);
+  padding: 10px 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex: 1;
+  position: absolute;
+  right: -0.01px;
+  top: 0;
+}
+.frame19 {
+  background-color: rgba(173, 164, 191, 1);
+  display: flex;
+  align-items: center;
+  width: 1012px;
+  position: absolute;
+  left: 12px;
+  bottom: -13px;
+}
+.materialSymbolsdeleteForever {
+  padding: 3px 4px;
+  display: flex;
+  align-items: center;
+  height: 18px;
+  width: 16px;
+  position: absolute;
+  left: 506px;
+  bottom: -52px;
+}

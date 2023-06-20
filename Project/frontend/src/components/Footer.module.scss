@@ -1,0 +1,140 @@
+@import "Dashboard";
+
+.component2 {
+  padding: 20px 0 0;
+}
+.pngLogoImage2 {
+  display: block;
+}
+.flexWrapperOne {
+  background-color: $dark-slate-blue;
+  padding: 32px 38px 7px 99px;
+  display: flex;
+  align-items: flex-start;
+  position: relative;
+}
+.flexWrapperTwo {
+  margin-right: 66px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.faq {
+  color: $white;
+  text-align: center;
+  @include inter-24-semi-bold;
+}
+.leaveUsAFeedback {
+  color: $white;
+  text-align: center;
+  @include inter-24-semi-bold;
+}
+.leftfoot{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    align-items: flex-start;
+}
+.midFoot{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    align-items: center;
+    margin: 0 55px;
+}
+.rightFoot{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    align-items: flex-start;
+}
+.contactNo0352246576 {
+  color: $white;
+  font-style: italic;
+  text-align: center;
+  @include inter-20-bold;
+}
+.flexWrapperThree {
+  margin-right: 109px;
+  padding: 116px 0 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.line1 {
+  background-color: $white;
+  width: 99.09%;
+  height: 2px;
+  margin-bottom: 14px;
+  margin-left: 5px;
+}
+.copyright2023ShanthaMotorsAllRi {
+  height: -29.87%;
+  color: $white;
+  font-style: italic;
+  align-self: stretch;
+  text-align: center;
+  @include inter-19-bold;
+}
+.flexWrapperFour {
+  margin-right: 47px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.termsAndConditions {
+  color: $white;
+  align-self: stretch;
+  text-align: center;
+  @include inter-24-semi-bold;
+}
+.privacyPolicy {
+  color: $white;
+  text-align: center;
+  @include inter-24-semi-bold;
+}
+.socialIcon{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.flexWrapperFive {
+  display: flex;
+  align-items: center;
+}
+.bxlgmail {
+  display: block;
+  margin-right: 20px;
+}
+.vector {
+  align-self: stretch;
+  object-fit: cover;
+}
+.uilinstagramAlt { 
+  display: block;
+  margin-right: 20px;
+}
+.footerWrapper{
+    background-color: $dark-slate-blue;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: center;
+    height: fit-content;
+    width: 100%;
+    position: relative;
+    bottom: -105px;
+}
+.vectorTwo {  
+  align-self: stretch;
+  object-fit: cover;
+}
+.vectorThree {
+ align-self: stretch;
+  object-fit: cover;
+}
+.carbonlogoFacebook {
+    display: block;
+}

@@ -1,0 +1,803 @@
+.add-invent-item-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.add-invent-item-add-newitems {
+  width: 100%;
+  height: 1024px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  background-color: rgba(255, 255, 255, 1);
+}
+.add-invent-item-blurred-background {
+  top: -64px;
+  left: 261px;
+  width: 1514px;
+  height: 1097px;
+  position: absolute;
+  border-color: transparent;
+}
+.add-invent-item-rectangle79 {
+  top: 105px;
+  left: 342px;
+  width: 456px;
+  height: 68px;
+  position: absolute;
+  border-color: transparent;
+}
+.add-invent-item-menubar {
+  top: -4px;
+  left: 0px;
+  width: 289px;
+  height: 1032px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.add-invent-item-rectangle3 {
+  top: 0px;
+  left: 0px;
+  width: 289px;
+  height: 1032px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 1px;
+}
+.add-invent-item-pn-logoimage1 {
+  top: 28px;
+  left: 59px;
+  width: 180px;
+  height: 126px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 0 10px 0 0;
+}
+.add-invent-item-rectangle10 {
+  top: 187px;
+  left: 32px;
+  width: 225px;
+  height: 40px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 120px;
+}
+.add-invent-item-rectangle15 {
+  top: 248px;
+  left: 32px;
+  width: 225px;
+  height: 40px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 120px;
+}
+.add-invent-item-rectangle16 {
+  top: 309px;
+  left: 32px;
+  width: 225px;
+  height: 40px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 120px;
+}
+.add-invent-item-rectangle17 {
+  top: 370px;
+  left: 32px;
+  width: 225px;
+  height: 40px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 120px;
+}
+.add-invent-item-rectangle18 {
+  top: 431px;
+  left: 32px;
+  width: 225px;
+  height: 40px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 120px;
+}
+.add-invent-item-rectangle19 {
+  top: 492px;
+  left: 32px;
+  width: 225px;
+  height: 40px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 120px;
+}
+.add-invent-item-rectangle20 {
+  top: 553px;
+  left: 32px;
+  width: 225px;
+  height: 40px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 120px;
+}
+.add-invent-item-rectangle21 {
+  top: 614px;
+  left: 32px;
+  width: 225px;
+  height: 40px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 120px;
+}
+.add-invent-item-text {
+  top: 199px;
+  left: 111px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Semi Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.add-invent-item-text02 {
+  top: 260px;
+  left: 111px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Semi Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.add-invent-item-text04 {
+  top: 321px;
+  left: 117px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Semi Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.add-invent-item-text06 {
+  top: 382px;
+  left: 115px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Semi Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.add-invent-item-text08 {
+  top: 443px;
+  left: 105px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Semi Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.add-invent-item-text10 {
+  top: 504px;
+  left: 119px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Semi Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.add-invent-item-text12 {
+  top: 565px;
+  left: 112px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Semi Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.add-invent-item-text14 {
+  top: 626px;
+  left: 108px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Semi Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.add-invent-item-frame39 {
+  top: -10px;
+  left: 289px;
+  width: 1170px;
+  height: 92px;
+  display: flex;
+  padding: 10px;
+  position: absolute;
+  align-items: flex-start;
+  border-color: transparent;
+}
+.add-invent-item-frame40 {
+  top: 0px;
+  left: 0px;
+  width: 1160px;
+  height: 92px;
+  display: flex;
+  padding: 10px 0;
+  position: absolute;
+  align-items: flex-start;
+  border-color: transparent;
+}
+.add-invent-item-topbar {
+  top: 10px;
+  left: 0px;
+  width: 1160px;
+  height: 72px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.add-invent-item-rectangle2 {
+  top: 0px;
+  left: 0px;
+  width: 1240px;
+  height: 72px;
+  position: absolute;
+  border-color: transparent;
+}
+.add-invent-item-rectangle14 {
+  top: 17px;
+  left: 856px;
+  width: 121px;
+  height: 30px;
+  position: absolute;
+  background-color: white;
+  border-color: transparent;
+  border-radius: 20px;
+}
+.add-invent-item-text16 {
+  top: 24px;
+  left: 856px;
+  color: rgba(30, 30, 30, 1);
+  width: 124px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.add-invent-item-mdiaccount {
+  top: 6px;
+  left: 1021px;
+  width: 60px;
+  height: 58px;
+  position: absolute;
+}
+.add-invent-item-text18 {
+  top: 105px;
+  left: 342px;
+  color: rgba(50, 19, 117, 1);
+  width: 456px;
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  align-self: auto;
+  font-style: Extra Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.add-invent-item-add-new-itemform {
+  top: 195px;
+  left: 342px;
+  width: 1053px;
+  height: 818px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.add-invent-item-rectangle49 {
+  top: 0px;
+  left: 0px;
+  width: 1053px;
+  height: 818px;
+  position: absolute;
+  border-color: rgba(50, 19, 117, 1);
+  border-style: solid;
+  border-width: 10px;
+}
+.add-invent-item-text20 {
+  top: 651px;
+  left: 68px;
+  color: rgba(0, 0, 0, 1);
+  width: 316px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Extra Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.add-invent-item-text22 {
+  top: 21px;
+  left: 68px;
+  color: rgba(0, 0, 0, 1);
+  width: 316px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Extra Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.add-invent-item-text24 {
+  top: 91px;
+  left: 68px;
+  color: rgba(0, 0, 0, 1);
+  width: 316px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Extra Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.add-invent-item-text26 {
+  top: 161px;
+  left: 68px;
+  color: rgba(0, 0, 0, 1);
+  width: 316px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Extra Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.add-invent-item-text28 {
+  top: 231px;
+  left: 68px;
+  color: rgba(0, 0, 0, 1);
+  width: 316px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Extra Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.add-invent-item-text30 {
+  top: 301px;
+  left: 68px;
+  color: rgba(0, 0, 0, 1);
+  width: 316px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Extra Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.add-invent-item-text32 {
+  top: 371px;
+  left: 68px;
+  color: rgba(0, 0, 0, 1);
+  width: 316px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Extra Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.add-invent-item-text34 {
+  top: 441px;
+  left: 68px;
+  color: rgba(0, 0, 0, 1);
+  width: 316px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Extra Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.add-invent-item-text36 {
+  top: 511px;
+  left: 68px;
+  color: rgba(0, 0, 0, 1);
+  width: 316px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Extra Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.add-invent-item-text38 {
+  top: 581px;
+  left: 68px;
+  color: rgba(0, 0, 0, 1);
+  width: 316px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Extra Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.add-invent-item-rectangle45input {
+  top: 301px;
+  left: 388px;
+  width: 590px;
+  height: 52px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 10px;
+}
+.add-invent-item-rectangle45input01 {
+  top: 231px;
+  left: 388px;
+  width: 590px;
+  height: 52px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 10px;
+}
+.add-invent-item-rectangle45input02 {
+  top: 21px;
+  left: 388px;
+  width: 590px;
+  height: 52px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 10px;
+}
+.add-invent-item-rectangle45input03 {
+  top: 91px;
+  left: 388px;
+  width: 590px;
+  height: 52px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 10px;
+}
+.add-invent-item-rectangle45input04 {
+  top: 161px;
+  left: 388px;
+  width: 590px;
+  height: 52px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 10px;
+}
+.add-invent-item-rectangle45input05 {
+  top: 371px;
+  left: 388px;
+  width: 590px;
+  height: 52px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 10px;
+}
+.add-invent-item-rectangle45input06 {
+  top: 441px;
+  left: 388px;
+  width: 590px;
+  height: 52px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 10px;
+}
+.add-invent-item-rectangle45input07 {
+  top: 511px;
+  left: 388px;
+  width: 590px;
+  height: 52px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 10px;
+}
+.add-invent-item-rectangle45input08 {
+  top: 581px;
+  left: 388px;
+  width: 590px;
+  height: 52px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 10px;
+}
+.add-invent-item-rectangle45input09 {
+  top: 651px;
+  left: 388px;
+  width: 590px;
+  height: 52px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 10px;
+}
+.add-invent-item-editbutton {
+  top: 728px;
+  left: 388px;
+  width: 200px;
+  height: 50px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 120px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: rgba(75, 37, 155, 1);
+}
+.add-invent-item-text40 {
+  top: 13.043410301208496px;
+  left: 31.578720092773438px;
+  color: rgba(255, 255, 255, 1);
+  width: 140px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.add-invent-item-savebutton {
+  top: 728px;
+  left: 773px;
+  width: 200px;
+  height: 50px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 120px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: rgba(75, 37, 155, 1);
+}
+.add-invent-item-text42 {
+  top: 14.616678237915039px;
+  left: 29.161163330078125px;
+  color: rgba(255, 255, 255, 1);
+  width: 136px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.add-invent-item-rectangle6 {
+  top: 119px;
+  left: 977px;
+  width: 418px;
+  height: 32px;
+  position: absolute;
+  box-sizing: content-box;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 3px;
+  border-radius: 20px;
+}
+.add-invent-item-text44 {
+  top: 125px;
+  left: 1067px;
+  color: rgba(0, 0, 0, 1);
+  width: 249px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.add-invent-item-icons8search241 {
+  top: 122px;
+  left: 1003px;
+  width: 28px;
+  height: 27px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 20px;
+}

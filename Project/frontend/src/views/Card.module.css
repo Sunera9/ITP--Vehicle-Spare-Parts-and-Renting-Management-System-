@@ -1,0 +1,21 @@
+.card {
+  border: 1px solid transparent;
+  border-radius: 5px;
+  box-shadow: var(--box-shadow);
+  overflow: hidden;
+  background-color:  rgba(74, 37, 155, 1) ;
+  font: size 16px;;
+  width: 820px;
+
+
+  padding-inline-start: 100px;
+  padding-right: 100px;
+  padding-top: 80px;
+  padding-bottom: 80px;
+  margin-top: 125px;
+  margin-left: 270px;
+  line-height: 3.15;
+  color: rgb(255, 255, 255);
+  border-radius: 30px;
+  
+}

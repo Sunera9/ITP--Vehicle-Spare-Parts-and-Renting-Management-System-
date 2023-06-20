@@ -1,0 +1,664 @@
+.salesmanager-dashboard-container {
+  min-height: 100vh;
+}
+.salesmanager-dashboard-salesmanager-dashboard {
+  width: 100%;
+  height: 1024px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  background-color: rgba(255, 255, 255, 1);
+}
+.salesmanager-dashboard-rectangle2 {
+  top: 0px;
+  left: 280px;
+  width: 1240px;
+  height: 72px;
+  position: absolute;
+  border-color: transparent;
+}
+.salesmanager-dashboard-rectangle3 {
+  top: -8px;
+  left: -9px;
+  width: 289px;
+  height: 1032px;
+  position: absolute;
+  border-color: transparent;
+}
+.salesmanager-dashboard-pn-logoimage1 {
+  top: 20px;
+  left: 50px;
+  width: 180px;
+  height: 126px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 0 10px 0 0;
+}
+.salesmanager-dashboard-text {
+  top: 124px;
+  left: 221px;
+  color: rgba(50, 19, 117, 1);
+  width: 456px;
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  align-self: auto;
+  font-style: Extra Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.salesmanager-dashboard-text02 {
+  top: 191px;
+  left: 1251px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Extra Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.salesmanager-dashboard-text04 {
+  top: 248px;
+  left: 849px;
+  color: rgba(255, 255, 255, 1);
+  width: 171px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Extra Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.salesmanager-dashboard-rectangle10button {
+  top: 179px;
+  left: 23px;
+  width: 225px;
+  height: 40px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 120px;
+}
+.salesmanager-dashboard-rectangle15button {
+  top: 240px;
+  left: 23px;
+  width: 225px;
+  height: 40px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 120px;
+}
+.salesmanager-dashboard-rectangle16button {
+  top: 301px;
+  left: 23px;
+  width: 225px;
+  height: 40px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 120px;
+}
+.salesmanager-dashboard-rectangle17button {
+  top: 362px;
+  left: 23px;
+  width: 225px;
+  height: 40px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 120px;
+}
+.salesmanager-dashboard-rectangle18button {
+  top: 423px;
+  left: 23px;
+  width: 225px;
+  height: 40px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 120px;
+}
+.salesmanager-dashboard-rectangle19button {
+  top: 484px;
+  left: 23px;
+  width: 225px;
+  height: 40px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 120px;
+}
+.salesmanager-dashboard-rectangle20button {
+  top: 545px;
+  left: 23px;
+  width: 225px;
+  height: 40px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 120px;
+}
+.salesmanager-dashboard-rectangle21button {
+  top: 606px;
+  left: 23px;
+  width: 225px;
+  height: 40px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 120px;
+}
+.salesmanager-dashboard-text06 {
+  top: 191px;
+  left: 102px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Semi Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.salesmanager-dashboard-text08 {
+  top: 252px;
+  left: 102px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Semi Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.salesmanager-dashboard-text10 {
+  top: 313px;
+  left: 108px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Semi Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.salesmanager-dashboard-text12 {
+  top: 374px;
+  left: 101px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Semi Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.salesmanager-dashboard-text14 {
+  top: 435px;
+  left: 96px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Semi Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.salesmanager-dashboard-text16 {
+  top: 496px;
+  left: 110px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Semi Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.salesmanager-dashboard-text18 {
+  top: 557px;
+  left: 103px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Semi Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.salesmanager-dashboard-text20 {
+  top: 618px;
+  left: 99px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Semi Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.salesmanager-dashboard-rectangle14button {
+  top: 23px;
+  left: 900px;
+  width: 121px;
+  height: 30px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 20px;
+}
+.salesmanager-dashboard-text22 {
+  top: 27px;
+  color: rgba(30, 30, 30, 1);
+  left: 900px;
+  width: 124px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.salesmanager-dashboard-mdiaccount {
+  top: 6px;
+  left: 1050px;
+  width: 60px;
+  height: 58px;
+  position: absolute;
+}
+.salesmanager-dashboard-materialsymbolsadd {
+  top: 243px;
+  left: 844px;
+  width: 32px;
+  height: 25px;
+  position: absolute;
+}
+.salesmanager-dashboard-rectangle26 {
+  top: 247px;
+  left: 320px;
+  width: 917px;
+  height: 291px;
+  position: absolute;
+  border-color: rgba(50, 19, 117, 1);
+  border-style: solid;
+  border-width: 3px;
+}
+.salesmanager-dashboard-rectangle34 {
+  top: 276px;
+  left: 346px;
+  width: 274px;
+  height: 235px;
+  position: absolute;
+  border-color: transparent;
+}
+.salesmanager-dashboard-text24 {
+  top: 310px;
+  left: 358px;
+  color: rgba(7, 31, 114, 1);
+  width: 226px;
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  align-self: auto;
+  font-style: Extra Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.salesmanager-dashboard-rectangle35 {
+  top: 275px;
+  left: 950px;
+  width: 254px;
+  height: 229px;
+  position: absolute;
+  border-color: transparent;
+}
+.salesmanager-dashboard-rectangle36 {
+  top: 274px;
+  left: 647px;
+  width: 274px;
+  height: 235px;
+  position: absolute;
+  border-color: transparent;
+}
+.salesmanager-dashboard-text29 {
+  top: 298px;
+  left: 675px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  align-self: auto;
+  font-style: Extra Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.salesmanager-dashboard-text34 {
+  top: 292px;
+  color: rgba(19, 109, 4, 1);
+  left: 980px;
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  align-self: auto;
+  font-style: Extra Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.salesmanager-dashboard-text39 {
+  top: 406px;
+  left: 386px;
+  color: rgba(19, 109, 4, 1);
+  width: 158px;
+  height: auto;
+  position: absolute;
+  font-size: 64px;
+  align-self: auto;
+  font-style: Extra Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.salesmanager-dashboard-text41 {
+  top: 402px;
+  left: 695px;
+  color: rgba(150, 6, 6, 1);
+  width: 158px;
+  height: auto;
+  position: absolute;
+  font-size: 64px;
+  align-self: auto;
+  font-style: Extra Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.salesmanager-dashboard-text43 {
+  top: 396px;
+  color: rgba(7, 31, 114, 1);
+  left: 990px;
+  width: 158px;
+  height: auto;
+  position: absolute;
+  font-size: 64px;
+  align-self: auto;
+  font-style: Extra Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.salesmanager-dashboard-rectangle28button {
+  top: 145px;
+  left: 784px;
+  width: 197px;
+  height: 76px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 10px;
+}
+.salesmanager-dashboard-text45 {
+  top: 169px;
+  left: 829px;
+  color: rgba(255, 255, 255, 1);
+  width: 111px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Extra Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.salesmanager-dashboard-rectangle37button {
+  top: 143px;
+  right: 31px;
+  width: 270px;
+  height: 76px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 10px;
+}
+.salesmanager-dashboard-text47 {
+  top: 157px;
+  color: rgba(255, 255, 255, 1);
+  right: 86px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Extra Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.salesmanager-dashboard-rectangle38 {
+  top: 578px;
+  left: 320px;
+  width: 934px;
+  height: 60px;
+  position: absolute;
+  border-color: transparent;
+}
+.salesmanager-dashboard-text52 {
+  top: 589px;
+  left: 337px;
+  color: rgba(0, 0, 0, 1);
+  width: 281px;
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  align-self: auto;
+  font-style: Extra Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.salesmanager-dashboard-frame58 {
+  /*width: 164.6666717529297px;
+  height: 52px;*/
+  display: flex;
+  padding: 10px 40px;
+  margin-top: 20px;
+  position: relative;
+  /*overflow: hidden;
+  flex-grow: 1;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  
+  background-color: rgba(255, 255, 255, 1);*/
+  top: 280px;
+  left: 295px;
+  width: 1035px;
+  height: 677px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+ /* flex-shrink: 0;
+  border-color: transparent;*/
+  flex-direction: column;
+}
+#items{
+  border-collapse: colapse;
+  width:98%;
+}
+#items tr,#itemsth{
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: center;
+  font-weight: 600;
+}
+#items tr:nth-child(even){
+  background-color: #ADA4BF;
+}
+#items th{
+  padding-top: 7px;
+  padding-bottom: 7px;
+  text-align: center;
+  font-weight: 700;
+  background-color: #4B259B;
+  color: white;
+}
+
+td span{
+  margin-right: 15px;
+}
+.salesmanager-dashboard-frame55 {
+  /*border: 2px dashed rgba(120, 120, 120, 0.4);
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-bottom: 0px;*/
+   /*width: 164.6666717529297px;
+  height: 52px;*/
+  display: flex;
+  padding: 10px 40px;
+  margin-top: 20px;
+  position: relative;
+  /*overflow: hidden;
+  flex-grow: 1;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  
+  background-color: rgba(255, 255, 255, 1);*/
+  top: 650px;
+  left: 270px;
+  width: 1035px;
+  height: 677px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+ /* flex-shrink: 0;
+  border-color: transparent;*/
+  flex-direction: column;
+}

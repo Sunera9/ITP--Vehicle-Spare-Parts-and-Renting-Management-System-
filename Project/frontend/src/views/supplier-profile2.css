@@ -1,0 +1,56 @@
+
+
+
+
+.card {
+  /* Add your card styles here */
+  /* Example styles */
+  background-color: #fff;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  padding: 16px;
+  width: 20px;
+  margin-bottom: 16px;
+  
+}
+
+.profile-data {
+  /* Add your profile-data styles here */
+  /* Example styles */
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-gap: 16px;
+}
+
+.profile-data div {
+  /* Add your profile-data item styles here */
+  /* Example styles */
+  display: flex;
+  align-items: center;
+}
+
+.profile-data label {
+  /* Add your profile-data label styles here */
+  /* Example styles */
+  font-weight: bold;
+  margin-right: 8px;
+}
+
+.profile-data input {
+  /* Add your profile-data input styles here */
+  /* Example styles */
+  width: 100%;
+  padding: 8px;
+  border-radius: 4px;
+  border: 1px solid #ccc;
+  text-align: center; /* Center the input text */
+}
+
+.companyInput {
+  /* Add your companyInput styles here */
+  /* Example styles */
+ 
+  margin-right: auto; /* Align input with consistent right margin */
+  margin-left:"800px"
+}
+

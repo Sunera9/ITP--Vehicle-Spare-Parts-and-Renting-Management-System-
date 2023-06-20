@@ -1,0 +1,72 @@
+.userPhoto {
+
+
+  margin-top: 50px;
+}
+
+.customersTable {
+  width: 900px;
+  position: relative;
+  border-collapse: collapse;
+  grid-gap: 500px;
+  margin-top: 200px;
+}
+.recentCustomers {
+  width: 105%;
+  margin-left: auto;
+  margin-right: -400px;
+}
+.closeButton:focus {
+  outline: none;
+}
+.userCard {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  width: 700px;
+   /* height:800px; */
+  transform: translate(-50%, -50%);
+  background-color: white;
+  padding: 20px;
+  z-index: 9999;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+}
+
+.userCardBody p {
+  text-align: left;
+  font-size: larger;
+}
+.userCardHeader {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.userDetails {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  grid-gap: 1rem;
+  margin-top: 1rem;
+}
+
+.userDetail {
+  display: flex;
+  flex-direction: column;
+  border: 1px solid #ccc;
+  padding: 1rem;
+}
+
+.userDetailTitle {
+  font-weight: bold;
+  margin-bottom: 0.5rem;
+}
+
+.closeButton {
+  background: none;
+  border: none;
+  font-size: 1.5rem;
+  cursor: pointer;
+}
+
+.underline {
+  text-decoration: underline;
+}

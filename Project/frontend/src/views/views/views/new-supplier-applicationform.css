@@ -1,0 +1,337 @@
+.new-supplier-applicationform-container {
+  min-height: 100vh;
+}
+.new-supplier-applicationform-new-supplier-applicationform {
+  width: 100%;
+  height: 714px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  background-size: cover;
+  background-image: url("/playground_assets_newform/faa42f21-a770-43ba-b6d9-a82f4592e45d-6yvq-800h.undefined");
+}
+.new-supplier-applicationform-pn-logoimage1svg {
+  top: 21px;
+  left: 19px;
+  width: 193px;
+  height: 148px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 0 10px 0 0;
+}
+.new-supplier-applicationform-rectangle27svg {
+  top: 666px;
+  left: -3px;
+  width: 1384px;
+  height: 48px;
+  position: absolute;
+}
+.new-supplier-applicationform-text {
+  top: 680px;
+  left: 403px;
+  color: rgba(255, 255, 255, 1);
+  width: 680px;
+  height: auto;
+  position: absolute;
+  font-size: 10px;
+  align-self: auto;
+  font-style: italic;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.new-supplier-applicationform-rectangle29svg {
+  top: 53px;
+  left: 455px;
+  width: 556px;
+  height: 562px;
+  position: absolute;
+  box-sizing: content-box;
+  border-color: rgba(255, 255, 255, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 90px;
+}
+.new-supplier-applicationform-rectangle23input {
+  top: 225px;
+  left: 495px;
+  width: 488px;
+  height: 120px;
+  position: absolute;
+  border-color: rgba(50, 18, 117, 0.029999999329447746);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 40px;
+}
+.new-supplier-applicationform-group17 {
+  top: 131px;
+  left: 495px;
+  width: 488.32598876953125px;
+  height: 434px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.new-supplier-applicationform-rectangle23input1 {
+  top: 0px;
+  left: 148px;
+  width: 340px;
+  height: 32px;
+  position: absolute;
+  border-color: rgba(50, 18, 117, 0.029999999329447746);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 120px;
+}
+.new-supplier-applicationform-rectangle33input {
+  top: 317px;
+  left: 0px;
+  width: 488px;
+  height: 34px;
+  position: absolute;
+  border-color: rgba(50, 18, 117, 0.029999999329447746);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 120px;
+}
+.new-supplier-applicationform-rectangle46input {
+  top: 399px;
+  left: 0px;
+  width: 488px;
+  height: 35px;
+  position: absolute;
+  border-color: rgba(50, 18, 117, 0.029999999329447746);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 120px;
+}
+.new-supplier-applicationform-group16 {
+  top: 136px;
+  left: 455px;
+  width: 386px;
+  height: 380px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.new-supplier-applicationform-text02 {
+  top: 56px;
+  left: 38px;
+  color: rgba(0, 0, 0, 1);
+  width: 209px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.new-supplier-applicationform-text04 {
+  color: rgba(0, 0, 0, 1);
+  width: 200px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.new-supplier-applicationform-text06 {
+  top: 359px;
+  left: 33px;
+  color: rgba(0, 0, 0, 1);
+  width: 353px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.new-supplier-applicationform-text08 {
+  top: 281px;
+  left: 33px;
+  color: rgba(0, 0, 0, 1);
+  width: 353px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.new-supplier-applicationform-text10 {
+  top: 70px;
+  left: 478px;
+  color: rgba(50, 19, 117, 1);
+  width: 527px;
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Abhaya Libre;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.new-supplier-applicationform-group15 {
+  top: 579px;
+  left: 677px;
+  width: 111px;
+  height: 25px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.new-supplier-applicationform-rectangle29button {
+  top: 0px;
+  left: 1.794921875px;
+  width: 102px;
+  height: 25px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 125px;
+}
+.new-supplier-applicationform-text12 {
+  top: 5px;
+  color: rgba(255, 255, 255, 1);
+  width: 111px;
+  height: auto;
+  position: absolute;
+  font-size: 10px;
+  align-self: auto;
+  font-style: Extra Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.new-supplier-applicationform-group46 {
+  top: 28px;
+  left: 1194px;
+  width: 110px;
+  height: 28px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.new-supplier-applicationform-rectangle14button {
+  left: -30px;
+  width: 107px;
+  bottom: -8px;
+  height: 28px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 20px;
+}
+.new-supplier-applicationform-text14 {
+  left: -30px;
+  color: rgba(30, 30, 30, 1);
+  width: 110px;
+  bottom: -2px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.new-supplier-applicationform-mdiaccount {
+  top: 31px;
+  right: 26px;
+  width: 42px;
+  height: 42px;
+  position: absolute;
+}

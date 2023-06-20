@@ -1,0 +1,194 @@
+// This is the project stylesheet
+
+// Colors
+$black: rgba(0, 0, 0, 1);
+$black-2: rgba(30, 30, 30, 1);
+$dark-slate-blue: rgba(75, 37, 155, 1);
+$midnight-blue: rgba(50, 19, 117, 1);
+$white: rgba(255, 255, 255, 1);
+
+
+// Typographies
+@mixin inter-16-bold {
+  font-family: "Inter";
+  font-size: 16px;
+  font-weight: 700;
+  line-height: normal;
+}
+
+@mixin inter-13-bold {
+  font-family: "Inter";
+  font-size: 13px;
+  font-weight: 800;
+  line-height: normal;
+}
+@mixin inter-16-semi-bold {
+  font-family: "Inter";
+  font-size: 16px;
+  font-weight: 600;
+  line-height: normal;
+}
+@mixin inter-32-extra-bold {
+  font-family: "Inter";
+  font-size: 32px;
+  font-weight: 800;
+  line-height: normal;
+}
+// This is the project stylesheet
+
+// Colors
+
+
+// Typographies
+@mixin inter-12-regular {
+  font-family: "Inter";
+  font-size: 12px;
+  font-weight: 400;
+  line-height: normal;
+}
+@mixin inter-16-bold {
+  font-family: "Inter";
+  font-size: 16px;
+  font-weight: 700;
+  line-height: normal;
+}
+@mixin inter-16-extra-bold {
+  font-family: "Inter";
+  font-size: 16px;
+  font-weight: 800;
+  line-height: normal;
+}
+
+// Typographies
+@mixin inter-19-bold {
+  font-family: "Inter";
+  font-size: 19px;
+  font-weight: 700;
+  line-height: normal;
+}
+@mixin inter-20-bold {
+  font-family: "Inter";
+  font-size: 20px;
+  font-weight: 700;
+  line-height: normal;
+}
+@mixin inter-24-semi-bold {
+  font-family: "Inter";
+  font-size: 24px;
+  font-weight: 600;
+  line-height: normal;
+}
+
+// This is the project stylesheet
+
+// Colors
+$black: rgba(30, 30, 30, 1);
+$transparent-black: rgba(0, 0, 0, 0.42);
+
+// Typographies
+@mixin inter-24-bold {
+  font-family: "Inter";
+  font-size: 24px;
+  font-weight: 700;
+  line-height: normal;
+}
+@mixin inter-24-regular {
+  font-family: "Inter";
+  font-size: 24px;
+  font-weight: 400;
+  line-height: normal;
+}
+@mixin inter-13-extra-bold{
+  font-family: "Inter";
+  font-size: 13px;
+  font-weight: 800;
+  line-height: normal;
+}
+
+@mixin inter-20-semi-bold{
+  font-family: "Inter";
+  font-size: 20px;
+  font-weight: 600;
+  line-height: normal;
+}
+
+@mixin inter-24-extra-bold{
+  font-family: "Inter";
+  font-size: 24px;
+  font-weight: 800;
+  line-height: normal;
+}
+@mixin raleway-22-semi-bold{
+  font-family: "Inter";
+  font-size: 22px;
+  font-weight: 600;
+  line-height: normal;
+}
+
+@mixin poppins-18-medium{
+  font-family: "popins";
+  font-size: 18px;
+  font-weight: 400;
+  line-height: normal;
+}
+@mixin nunito-14-medium{
+  font-family: "nunito";
+  font-size: 18px;
+  font-weight: 400;
+  line-height: normal;
+}
+
+@mixin inter-14-medium{
+  font-family: "inter";
+  font-size: 18px;
+  font-weight: 400;
+  line-height: normal;
+}
+@mixin poppins-14-medium{
+  font-family: "popins";
+  font-size: 14px;
+  font-weight: 400;
+  line-height: normal;
+}
+
+@mixin inter-16-medium{
+  font-family: "inter";
+  font-size: 16px;
+  font-weight: 400;
+  line-height: normal;
+}
+@mixin inter-18-medium{
+  font-family: "inter";
+  font-size: 18px;
+  font-weight: 400;
+  line-height: normal;
+}
+
+
+
+// This is the project stylesheet
+
+// Colors
+$black: rgba(30, 30, 30, 1);
+$black-1: rgba(0, 0, 0, 1);
+$transparent-black: rgba(0, 0, 0, 0.42);
+
+// Typographies
+@mixin inter-24-bold {
+  font-family: "Inter";
+  font-size: 24px;
+  font-weight: 700;
+  line-height: normal;
+}
+@mixin inter-24-regular {
+  font-family: "Inter";
+  font-size: 24px;
+  font-weight: 400;
+  line-height: normal;
+}
+@mixin inter-32-extra-bold {
+  font-family: "Inter";
+  font-size: 32px;
+  font-weight: 800;
+  line-height: normal;
+}

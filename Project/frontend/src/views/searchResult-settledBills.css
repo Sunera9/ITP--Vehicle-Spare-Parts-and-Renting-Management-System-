@@ -1,0 +1,1208 @@
+.view-settledbills-dashboard-container {
+  min-height: 100vh;
+}
+.view-settledbills-dashboard-view-settledbills-dashboard {
+  width: 100%;
+  height: 1024px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  background-color: rgba(255, 255, 255, 1);
+}
+.view-settledbills-dashboard-rectangle2 {
+  top: 0px;
+  left: 280px;
+  width: 1300px;
+  height: 72px;
+  position: absolute;
+  border-color: transparent;
+}
+.view-settledbills-dashboard-rectangle3 {
+  top: -8px;
+  left: -9px;
+  width: 289px;
+  height: 1032px;
+  position: absolute;
+  border-color: transparent;
+}
+.view-settledbills-dashboard-pn-logoimage1 {
+  top: 20px;
+  left: 50px;
+  width: 180px;
+  height: 126px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 0 10px 0 0;
+}
+.view-settledbills-dashboard-text {
+  top: 111px;
+  left: 267px;
+  color: rgba(50, 19, 117, 1);
+  width: 456px;
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  align-self: auto;
+  font-style: Extra Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.view-settledbills-dashboard-rectangle6 {
+  top: 108px;
+  left: 943px;
+  width: 418px;
+  height: 32px;
+  position: absolute;
+  box-sizing: content-box;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 3px;
+  border-radius: 120px;
+}
+.view-settledbills-dashboard-text02 {
+  top: 116px;
+  left: 1033px;
+  color: rgba(0, 0, 0, 1);
+  width: 249px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.view-settledbills-dashboard-icons8search241 {
+  top: 114px;
+  left: 969px;
+  width: 25px;
+  height: 25px;
+  position: absolute;
+  border-color: transparent;
+}
+.view-settledbills-dashboard-rectangle7button {
+  top: 174px;
+  left: 902px;
+  width: 189px;
+  height: 36px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 10px;
+}
+.view-settledbills-dashboard-rectangle22button {
+  top: 174px;
+  left: 1130px;
+  width: 231px;
+  height: 36px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 10px;
+}
+.view-settledbills-dashboard-text04 {
+  top: 184px;
+  left: 920px;
+  color: rgba(255, 255, 255, 1);
+  width: 171px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Extra Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.view-settledbills-dashboard-text06 {
+  top: 182px;
+  left: 1182px;
+  color: rgba(255, 255, 255, 1);
+  width: 171px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Extra Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.view-settledbills-dashboard-rectangle10button {
+  top: 179px;
+  left: 23px;
+  width: 225px;
+  height: 40px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 120px;
+}
+.view-settledbills-dashboard-rectangle15button {
+  top: 240px;
+  left: 23px;
+  width: 225px;
+  height: 40px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 120px;
+}
+.view-settledbills-dashboard-rectangle16button {
+  top: 301px;
+  left: 23px;
+  width: 225px;
+  height: 40px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 120px;
+}
+.view-settledbills-dashboard-rectangle17button {
+  top: 362px;
+  left: 23px;
+  width: 225px;
+  height: 40px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 120px;
+}
+.view-settledbills-dashboard-rectangle18button {
+  top: 423px;
+  left: 23px;
+  width: 225px;
+  height: 40px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 120px;
+}
+.view-settledbills-dashboard-rectangle19button {
+  top: 484px;
+  left: 23px;
+  width: 225px;
+  height: 40px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 120px;
+}
+.view-settledbills-dashboard-rectangle20button {
+  top: 545px;
+  left: 23px;
+  width: 225px;
+  height: 40px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 120px;
+}
+.view-settledbills-dashboard-rectangle21button {
+  top: 606px;
+  left: 23px;
+  width: 225px;
+  height: 40px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 120px;
+}
+.view-settledbills-dashboard-text08 {
+  top: 191px;
+  left: 102px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Semi Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.view-settledbills-dashboard-text10 {
+  top: 252px;
+  left: 102px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Semi Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.view-settledbills-dashboard-text12 {
+  top: 313px;
+  left: 108px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Semi Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.view-settledbills-dashboard-text14 {
+  top: 374px;
+  left: 111px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Semi Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.view-settledbills-dashboard-text16 {
+  top: 435px;
+  left: 95px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Semi Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.view-settledbills-dashboard-text18 {
+  top: 496px;
+  left: 103px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Semi Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.view-settledbills-dashboard-text20 {
+  top: 557px;
+  left: 106px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Semi Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.view-settledbills-dashboard-text22 {
+  top: 618px;
+  left: 99px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Semi Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.view-settledbills-dashboard-rectangle14 {
+  top: 17px;
+  left: 1136px;
+  width: 121px;
+  height: 30px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 20px;
+}
+.view-settledbills-dashboard-text24 {
+  top: 24px;
+  left: 1136px;
+  color: rgba(30, 30, 30, 1);
+  width: 124px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.view-settledbills-dashboard-mdiaccount {
+  top: 6px;
+  left: 1301px;
+  width: 60px;
+  height: 58px;
+  position: absolute;
+}
+.view-settledbills-dashboard-materialsymbolsadd {
+  top: 179px;
+  left: 907px;
+  width: 25px;
+  height: 25px;
+  position: absolute;
+}
+.view-settledbills-dashboard-materialsymbolsdownloadrounded {
+  top: 179px;
+  left: 1142px;
+  width: 25px;
+  height: 25px;
+  position: absolute;
+}
+.view-settledbills-dashboard-frame22 {
+  top: 315px;
+  left: 332px;
+  width: 1046px;
+  height: 677px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+#bills {
+  border-collapse: collapse;
+  width: 105%;
+}
+#bills tr, #bills th {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: center;
+  font-weight: 600;
+}
+#bills tr {
+  line-height: 40px;
+}
+#bills tr:nth-child(even){background-color: #ADA4BF;}
+
+#bills th {
+  padding-top: 7px;
+  padding-bottom: 7px;
+  text-align: center;
+  font-weight: 700;
+  background-color: #4B259B;
+  color: white;
+}
+td span {
+  margin-right: 15px;
+}
+
+.view-settledbills-dashboard-frame13 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  flex-direction: column;
+}
+.view-settledbills-dashboard-frame9 {
+  width: 1012px;
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-bottom: 15px;
+}
+.view-settledbills-dashboard-frame8 {
+  display: flex;
+  position: relative;
+  flex-grow: 1;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-right: 0px;
+}
+.view-settledbills-dashboard-frame1 {
+  display: flex;
+  padding: 10px 40px;
+  position: relative;
+  flex-grow: 1;
+  align-items: center;
+  border-color: transparent;
+  margin-right: 0px;
+  justify-content: center;
+  background-color: rgba(74, 37, 155, 1);
+}
+.view-settledbills-dashboard-text26 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.view-settledbills-dashboard-frame2 {
+  display: flex;
+  padding: 10px 40px;
+  position: relative;
+  flex-grow: 1;
+  align-items: center;
+  border-color: transparent;
+  margin-right: 0px;
+  justify-content: center;
+  background-color: rgba(74, 37, 155, 1);
+}
+.view-settledbills-dashboard-text28 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.view-settledbills-dashboard-frame3 {
+  display: flex;
+  padding: 10px 40px;
+  position: relative;
+  flex-grow: 1;
+  align-items: center;
+  border-color: transparent;
+  margin-right: 0px;
+  justify-content: center;
+  background-color: rgba(74, 37, 155, 1);
+}
+.view-settledbills-dashboard-text30 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.view-settledbills-dashboard-frame5 {
+  display: flex;
+  padding: 10px 40px;
+  position: relative;
+  flex-grow: 1;
+  align-items: center;
+  border-color: transparent;
+  margin-right: 0px;
+  justify-content: center;
+  background-color: rgba(74, 37, 155, 1);
+}
+.view-settledbills-dashboard-text32 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.view-settledbills-dashboard-frame4 {
+  display: flex;
+  padding: 10px 40px;
+  position: relative;
+  flex-grow: 1;
+  align-items: center;
+  border-color: transparent;
+  margin-right: 0px;
+  justify-content: center;
+  background-color: rgba(74, 37, 155, 1);
+}
+.view-settledbills-dashboard-text34 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.view-settledbills-dashboard-frame7 {
+  display: flex;
+  padding: 10px 40px;
+  position: relative;
+  flex-grow: 1;
+  align-items: center;
+  border-color: transparent;
+  margin-right: 0px;
+  justify-content: center;
+  background-color: rgba(74, 37, 155, 1);
+}
+.view-settledbills-dashboard-text36 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.view-settledbills-dashboard-frame6 {
+  display: flex;
+  padding: 10px 40px;
+  position: relative;
+  flex-grow: 1;
+  align-items: center;
+  border-color: transparent;
+  justify-content: center;
+  background-color: rgba(74, 37, 155, 1);
+}
+.view-settledbills-dashboard-text38 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.view-settledbills-dashboard-frame61 {
+  width: 123.85713958740234px;
+  display: flex;
+  padding: 10px 40px;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: transparent;
+  justify-content: center;
+  background-color: rgba(74, 37, 155, 1);
+}
+.view-settledbills-dashboard-text40 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.view-settledbills-dashboard-frame11 {
+  width: 1012px;
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-bottom: 15px;
+}
+.view-settledbills-dashboard-frame81 {
+  display: flex;
+  position: relative;
+  flex-grow: 1;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-right: 0px;
+}
+.view-settledbills-dashboard-frame11 {
+  display: flex;
+  padding: 10px 40px;
+  position: relative;
+  flex-grow: 1;
+  align-items: center;
+  border-color: transparent;
+  margin-right: 0px;
+  justify-content: center;
+  background-color: rgba(255, 255, 255, 1);
+}
+.view-settledbills-dashboard-text42 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.view-settledbills-dashboard-frame21 {
+  display: flex;
+  padding: 10px 40px;
+  position: relative;
+  flex-grow: 1;
+  align-items: center;
+  border-color: transparent;
+  margin-right: 0px;
+  justify-content: center;
+  background-color: rgba(255, 255, 255, 1);
+}
+.view-settledbills-dashboard-text44 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.view-settledbills-dashboard-frame31 {
+  display: flex;
+  padding: 10px 40px;
+  position: relative;
+  flex-grow: 1;
+  align-items: center;
+  border-color: transparent;
+  margin-right: 0px;
+  justify-content: center;
+  background-color: rgba(255, 255, 255, 1);
+}
+.view-settledbills-dashboard-text46 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.view-settledbills-dashboard-frame51 {
+  display: flex;
+  padding: 10px 40px;
+  position: relative;
+  flex-grow: 1;
+  align-items: center;
+  border-color: transparent;
+  margin-right: 0px;
+  justify-content: center;
+  background-color: rgba(255, 255, 255, 1);
+}
+.view-settledbills-dashboard-text48 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.view-settledbills-dashboard-frame41 {
+  display: flex;
+  padding: 10px 40px;
+  position: relative;
+  flex-grow: 1;
+  align-items: center;
+  border-color: transparent;
+  margin-right: 0px;
+  justify-content: center;
+  background-color: rgba(255, 255, 255, 1);
+}
+.view-settledbills-dashboard-text50 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.view-settledbills-dashboard-frame71 {
+  display: flex;
+  padding: 10px 40px;
+  position: relative;
+  flex-grow: 1;
+  align-items: center;
+  border-color: transparent;
+  margin-right: 0px;
+  justify-content: center;
+  background-color: rgba(255, 255, 255, 1);
+}
+.view-settledbills-dashboard-text52 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.view-settledbills-dashboard-frame62 {
+  display: flex;
+  padding: 10px 40px;
+  position: relative;
+  flex-grow: 1;
+  align-items: center;
+  border-color: transparent;
+  justify-content: center;
+  background-color: rgba(255, 255, 255, 1);
+}
+.view-settledbills-dashboard-text54 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.view-settledbills-dashboard-frame63 {
+  width: 123.85713958740234px;
+  display: flex;
+  padding: 10px 40px;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: transparent;
+  justify-content: center;
+  background-color: rgba(255, 255, 255, 1);
+}
+.view-settledbills-dashboard-materialsymbolseditbutton {
+  width: 24px;
+  height: 24px;
+  position: relative;
+  margin-right: 10px;
+}
+.view-settledbills-dashboard-icbaselineremoveredeyebutton {
+  width: 24px;
+  height: 24px;
+  position: relative;
+  margin-right: 10px;
+}
+.view-settledbills-dashboard-materialsymbolsdeleteforeverbutton {
+  width: 24px;
+  height: 24px;
+  position: relative;
+}
+.view-settledbills-dashboard-frame131 {
+  width: 1012px;
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: transparent;
+  background-color: rgba(173, 164, 191, 1);
+}
+.view-settledbills-dashboard-frame82 {
+  display: flex;
+  position: relative;
+  flex-grow: 1;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-right: 0px;
+}
+.view-settledbills-dashboard-frame12 {
+  display: flex;
+  padding: 10px 40px;
+  position: relative;
+  flex-grow: 1;
+  align-items: center;
+  border-color: transparent;
+  margin-right: 0px;
+  justify-content: center;
+  background-color: rgba(173, 164, 191, 1);
+}
+.view-settledbills-dashboard-text56 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.view-settledbills-dashboard-frame22 {
+  display: flex;
+  padding: 10px 40px;
+  margin-top: 20px;
+  position: relative;
+}
+.view-settledbills-dashboard-text58 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.view-settledbills-dashboard-frame32 {
+  display: flex;
+  padding: 10px 40px;
+  position: relative;
+  flex-grow: 1;
+  align-items: center;
+  border-color: transparent;
+  margin-right: 0px;
+  justify-content: center;
+  background-color: rgba(173, 164, 191, 1);
+}
+.view-settledbills-dashboard-text60 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.view-settledbills-dashboard-frame52 {
+  display: flex;
+  padding: 10px 40px;
+  position: relative;
+  flex-grow: 1;
+  align-items: center;
+  border-color: transparent;
+  margin-right: 0px;
+  justify-content: center;
+  background-color: rgba(173, 164, 191, 1);
+}
+.view-settledbills-dashboard-text62 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.view-settledbills-dashboard-frame42 {
+  display: flex;
+  padding: 10px 40px;
+  position: relative;
+  flex-grow: 1;
+  align-items: center;
+  border-color: transparent;
+  margin-right: 0px;
+  justify-content: center;
+  background-color: rgba(173, 164, 191, 1);
+}
+.view-settledbills-dashboard-text64 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.view-settledbills-dashboard-frame72 {
+  display: flex;
+  padding: 10px 40px;
+  position: relative;
+  flex-grow: 1;
+  align-items: center;
+  border-color: transparent;
+  margin-right: 0px;
+  justify-content: center;
+  background-color: rgba(173, 164, 191, 1);
+}
+.view-settledbills-dashboard-text66 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.view-settledbills-dashboard-frame64 {
+  display: flex;
+  padding: 10px 40px;
+  position: relative;
+  flex-grow: 1;
+  align-items: center;
+  border-color: transparent;
+  justify-content: center;
+  background-color: rgba(173, 164, 191, 1);
+}
+.view-settledbills-dashboard-text68 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.view-settledbills-dashboard-frame65 {
+  width: 123.85713958740234px;
+  display: flex;
+  padding: 10px 40px;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: transparent;
+  justify-content: center;
+  background-color: rgba(173, 164, 191, 1);
+}
+.view-settledbills-dashboard-materialsymbolsedit {
+  width: 24px;
+  height: 24px;
+  position: relative;
+  margin-right: 10px;
+}
+.view-settledbills-dashboard-icbaselineremoveredeye {
+  width: 24px;
+  height: 24px;
+  position: relative;
+  margin-right: 10px;
+}
+.view-settledbills-dashboard-materialsymbolsdeleteforever {
+  width: 24px;
+  height: 24px;
+  position: relative;
+}
+.view-settledbills-dashboard-rectangle23 {
+  top: 232px;
+  left: 907px;
+  width: 454px;
+  height: 58px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 10px;
+}
+.view-settledbills-dashboard-text70 {
+  top: 244px;
+  left: 959px;
+  color: rgba(255, 255, 255, 1);
+  width: 171px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Extra Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.view-settledbills-dashboard-text72 {
+  top: 244px;
+  left: 1129px;
+  color: rgba(255, 255, 255, 1);
+  width: 171px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Extra Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.view-settledbills-dashboard-rectangle24button {
+  top: 175px;
+  left: 674px;
+  width: 189px;
+  height: 36px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 10px;
+}
+.view-settledbills-dashboard-text74 {
+  top: 182px;
+  left: 684px;
+  color: rgba(255, 255, 255, 1);
+  width: 171px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Extra Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}

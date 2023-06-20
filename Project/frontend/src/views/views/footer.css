@@ -1,0 +1,175 @@
+.component8-container {
+    
+    bottom: 0px;
+    display: flex;
+    overflow: auto;
+    /*min-height: 100vh;
+    /*align-items: center;*/
+    flex-direction: column;
+  }
+  .component8-component8 {
+    width: 1580px;
+    height: 208px;
+    display: flex;
+    align-items: flex-start;
+    flex-shrink: 0;
+    position: relative;
+    bottom: 0px;
+    left: 0px;
+  }
+  .component8-rectangle16 {
+    left: 0px;
+    width: 10px;
+    height: 20px;
+    position: absolute;
+    bottom: 0px;
+  }
+  .component8-text {
+    top: 40px;
+    left: 450px;
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: relative;
+    font-size: 16px;
+    font-style: Semi Bold;
+    text-align: center;
+    font-family: Inter;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .component8-pn-logoimage2 {
+    top: 0px;
+    left: 608px;
+    width: 150px;
+    height: 150px;
+    position: relative;
+    border-radius: 0 10px 0 0;
+  }
+  .component8-carbonlogofacebook {
+    top: 126px;
+    left: 1187px;
+    width: 30px;
+    height: 30px;
+    position: relative;
+  }
+  .component8-vector {
+    top: 90px;
+    left: 1000px;
+    width: 25px;
+    height: 25px;
+    position: relative;
+  }
+  .component8-uilinstagramalt {
+    top: 35px;
+    left: 1130px;
+    width: 30px;
+    height: 30px;
+    position: relative;
+  }
+  .component8-bxlgmail {
+    top: 65px;
+    left: 1065px;
+    width: 30px;
+    height: 30px;
+    position: relative;
+  }
+  .component8-text02 {
+    top: 120px;
+    left: 108px;
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    font-style: italic;
+    text-align: center;
+    font-family: Inter;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .component8-line1 {
+    top: 145px;
+    left: 936px;
+    width: 500px;
+    height: 0px;
+    position: absolute;
+  }
+  .component8-text04 {
+    top: 20px;
+    left: 1000px;
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: relative;
+    font-size: 16px;
+    font-style: Semi Bold;
+    
+    font-family: Inter;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .component8-text06 {
+    top: 120px;
+    left: 100px;
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: relative;
+    font-size: 16px;
+    font-style: Semi Bold;
+    
+    font-family: Inter;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .component8-text08 {
+    top: 60px;
+    left: 100px;
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: relative;
+    font-size: 16px;
+    font-style: Semi Bold;
+    
+    font-family: Inter;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .component8-text10 {
+    top: 100px;
+    left: 65px;
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: relative;
+    font-size: 16px;
+    font-style: Semi Bold;
+    
+    font-family: Inter;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .component8-text12 {
+    top: 65px;
+    left: 860px;
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: relative;
+    font-size: 16px;
+    font-style: Semi Bold;
+    
+    font-family: Inter;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  
