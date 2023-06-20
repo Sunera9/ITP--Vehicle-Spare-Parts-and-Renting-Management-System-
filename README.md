@@ -45,6 +45,17 @@ functions the client has requested.
     <img src="https://www.educative.io/api/edpresso/shot/5266982947520512/image/6392882854363136" alt="Logo" >
 </p>
 
+# Preview- 
+
+## Customer Side-Home Page ![profile2](https://github.com/Sunera9/ITP-Vehicle_Spare_Parts_and_Renting_Management_System/assets/99312516/ac90544b-a569-46ce-88d0-da6543d1ad1d)
+
+## Customer Side-Store
+![18cb2c2a576b443d69cfb65fb3a72fa3a2658f0d](https://github.com/Sunera9/ITP-Vehicle_Spare_Parts_and_Renting_Management_System/assets/99312516/476f3c09-009c-49e4-b365-4a53c8fa720f)
+
+## Admin Side-Customer tabel
+![60ef5a2ee17172d69d8ca4f437112b92da3febf4](https://github.com/Sunera9/ITP-Vehicle_Spare_Parts_and_Renting_Management_System/assets/99312516/0dcc225d-47ba-4437-827d-8a92b532ed60)
+
+
 ## Available Scripts
 
 In the project directory, you can run:
