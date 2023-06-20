@@ -2,16 +2,16 @@
 
 # Project Name - Vehicle Spare Parts and Renting Management System for Shantha Motors
 # Batch - Y2_S2_WD_IT_02.02
-| Name with initials | Registration Number | Contact Phone Number | Email                 | Badge         |
-| :---               |     :---:           |          :---:       |         :---:         |       :---:   |
-| Basnayaka B.M.M.S  | IT21215506          | 070 3735275          | IT21215506@my.sliit.lk| ![visitor badge](https://custom-icon-badges.demolab.com/badge/⭐-Leader-red)     |
-| Umaira M.M         | IT21258312          | 076 5842442          | IT21258312@my.sliit.lk| ![visitor badge](https://custom-icon-badges.demolab.com/badge/⭐-Leader-red)      |
-| Lakshani D.M.W.S   | IT21262104          | 071 4310688          | IT21262104@my.sliit.lk| ![visitor badge](https://custom-icon-badges.demolab.com/badge/⭐-Member-green)      |
-| Perera W.A.S.K     | IT21261732          | 077 6088263          | IT21261732@my.sliit.lk| ![visitor badge](https://custom-icon-badges.demolab.com/badge/⭐-Member-green)      |                       
-| Weerasinghe K.D.E.I| IT21259852          | 076 7622365          | IT21259852@my.sliit.lk| ![visitor badge](https://custom-icon-badges.demolab.com/badge/⭐-Member-green)      |                     
-| Vidyaratna K.R.K   | IT21295706          | 077 7903090          | IT21295706@my.sliit.lk| ![visitor badge](https://custom-icon-badges.demolab.com/badge/⭐-Member-green)      |                  
-| Samarasinghe G.C.S | IT21227622          | 077 3098898          | IT21227622@my.sliit.lk| ![visitor badge](https://custom-icon-badges.demolab.com/badge/⭐-Member-green)      |                    
-| Arangala A.K       | IT21208362          | 071 7903090          | IT21208362@my.sliit.lk| ![visitor badge](https://custom-icon-badges.demolab.com/badge/⭐-Member-green)      |  
+| Name with initials | Registration Number  | Email                 | Badge         |
+| :---               |     :---:            |          :---:       |         :---:         |       :---:   |
+| Basnayaka B.M.M.S  | IT21215506           | IT21215506@my.sliit.lk| ![visitor badge](https://custom-icon-badges.demolab.com/badge/⭐-Leader-red)     |
+| Umaira M.M         | IT21258312           | IT21258312@my.sliit.lk| ![visitor badge](https://custom-icon-badges.demolab.com/badge/⭐-Leader-red)      |
+| Lakshani D.M.W.S   | IT21262104           | IT21262104@my.sliit.lk| ![visitor badge](https://custom-icon-badges.demolab.com/badge/⭐-Member-green)      |
+| Perera W.A.S.K     | IT21261732           | IT21261732@my.sliit.lk| ![visitor badge](https://custom-icon-badges.demolab.com/badge/⭐-Member-green)      |                       
+| Weerasinghe K.D.E.I| IT21259852           | IT21259852@my.sliit.lk| ![visitor badge](https://custom-icon-badges.demolab.com/badge/⭐-Member-green)      |                     
+| Vidyaratna K.R.K   | IT21295706           | IT21295706@my.sliit.lk| ![visitor badge](https://custom-icon-badges.demolab.com/badge/⭐-Member-green)      |                  
+| Samarasinghe G.C.S | IT21227622           | IT21227622@my.sliit.lk| ![visitor badge](https://custom-icon-badges.demolab.com/badge/⭐-Member-green)      |                    
+| Arangala A.K       | IT21208362           | IT21208362@my.sliit.lk| ![visitor badge](https://custom-icon-badges.demolab.com/badge/⭐-Member-green)      |  
 
 # Brief Description of Project -
 ```
